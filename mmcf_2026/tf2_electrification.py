@@ -14,12 +14,19 @@ from scripts.add_building_codes import add_building_codes
 from scripts.add_candu_forced_refurb import add_candu_forced_refurb
 from scripts.add_cer import add_cer
 from scripts.add_coal_phaseout import add_coal_phaseout
+from scripts.add_data_centres import add_data_centres
+from scripts.add_itcs import add_itcs
+from scripts.add_methane import add_methane
+from scripts.add_net_zero_cap import add_net_zero_cap
+from scripts.add_qc_wci import add_qc_wci
 from scripts.add_uc import add_uc
 from scripts.module_copy import run as module_cp_run
 
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
 WORKING_DIR = Path("canoe-pwd")
 TRP_SRC_DB = Path("~/OneDrive/dev/canoe-data/processed/canoe-trp-v4.sqlite").expanduser()
+NET_ZERO_RESIDUAL_CO2E: float | None = None  # kt CO2e in the last period; EF2026 residual, TBD
+QC_WCI_PRICE: float | None = None  # 2030 WCI price in 2020 C$/t (constant real), TBD
 
 
 # ---------------------------------------------------------------------------
@@ -76,6 +83,17 @@ def main(existing_db: Path | None = None) -> None:
     add_candu_forced_refurb(str(db))
     add_uc(str(db), pd.read_csv("data/unit_commitment_data.csv"))
     add_cer(str(db))
+    add_data_centres(str(db))
+    add_itcs(str(db))
+    add_methane(str(db))
+    if QC_WCI_PRICE is None:
+        logger.warning("QC_WCI_PRICE not set, running without Quebec carbon pricing")
+    else:
+        add_qc_wci(str(db), QC_WCI_PRICE)
+    if NET_ZERO_RESIDUAL_CO2E is None:
+        logger.warning("NET_ZERO_RESIDUAL_CO2E not set, running without the net-zero endpoint")
+    else:
+        add_net_zero_cap(str(db), NET_ZERO_RESIDUAL_CO2E)
 
     ####################################
     # Representative periods and TEMOA #
