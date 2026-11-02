@@ -26,13 +26,15 @@ def add_building_codes(
     base_year: int = DEFAULT_BASE_YEAR,
     end_year: int = DEFAULT_END_YEAR,
     marker: str = DEFAULT_MARKER,
+    period_offset: int = 5,
 ) -> None:
     """
     Apply building-code shell-efficiency reductions to demand in a Canoe database.
 
-    For each commodity, demand in periods after ``base_year`` is scaled by
-    ``1 - improvement * (period - base_year) / (end_year - base_year)``, i.e. a
-    linear decline reaching ``improvement`` at ``end_year``.
+    Each period is read at ``year = period + period_offset`` (CANOE's period_end
+    convention, so the last period stands for ``end_year``), and its demand is scaled by
+    ``1 - improvement * (year - base_year) / (end_year - base_year)``, i.e. a linear
+    decline reaching ``improvement`` at ``end_year``.
 
     Rows already tagged with ``marker`` in their notes are skipped, so the
     function is safe to run more than once on the same database.
@@ -43,6 +45,8 @@ def add_building_codes(
     :param base_year: Year with no reduction applied.
     :param end_year: Year at which the full reduction is reached.
     :param marker: Text appended to ``notes`` to tag modified rows.
+    :param period_offset: Years from a period's label to the year its demand stands for
+        (5 for period_end, 0 for period_start).
     """
     if demand_improvements is None:
         demand_improvements = DEFAULT_HEATING_COOLING_DEMANDS
@@ -54,10 +58,11 @@ def add_building_codes(
 
         for commodity, improvement in demand_improvements.items():
             for (period,) in curs.execute(
-                "SELECT DISTINCT period FROM demand WHERE commodity = ? AND period > ?",
-                (commodity, base_year),
+                "SELECT DISTINCT period FROM demand WHERE commodity = ? AND period + ? > ?",
+                (commodity, period_offset, base_year),
             ).fetchall():
-                factor = 1 - improvement * (period - base_year) / (end_year - base_year)
+                year = min(period + period_offset, end_year)
+                factor = 1 - improvement * (year - base_year) / (end_year - base_year)
                 curs.execute(
                     """
                     UPDATE demand
