@@ -1,0 +1,40 @@
+[project]
+name = "mmcf-2026"
+version = "4.0.0"
+description = "CANOE MMCF"
+requires-python = ">=3.12"
+dependencies = [
+  "canoe[solvers] @ git+https://github.com/CANOE-main/CANOE@e21887b21ed33974c49592b9b8e49dfa097fc87c",
+  "pandas",
+  "numpy",
+  "ipykernel"
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["mmcf_2026*"]
+
+[tool.basedpyright]
+reportUnusedCallResult = false
+reportAny = false
+reportExplicitAny = false
+reportMissingTypeStubs = false  # Eventually change
+reportUnknownArgumentType = false
+reportUnknownVariableType = false
+reportUnknownMemberType = false
+reportOptionalMemberAccess = false
+
+[tool.hatch.envs.dev]
+dependencies = [
+  "pandas-stubs",
+]
+
+[tool.uv]
+package = false
+# Replace the Temoa version pinned by CANOE
+override-dependencies = [
+  "temoa @ git+https://github.com/idelder/temoa@mmcf_2026",
+]

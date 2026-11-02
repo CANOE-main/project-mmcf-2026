@@ -1,0 +1,7 @@
+.cache
+**/*.sqlite
+**/*.egg-info
+**/__pycache__/
+**/temoa-outputs/
+assets/rep_periods_data/output
+assets/rep_periods_data/*csv

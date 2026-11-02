@@ -1,0 +1,2761 @@
+region,sector,fuel,year,price,currency,currency_year,units
+Alberta,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2005,16.2617,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2006,11.1529,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2006,11.1529,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2006,14.7451,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2007,13.7383,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2008,13.8359,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2009,6.8192,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2009,6.3071,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2009,9.7513,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2010,6.0371,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2010,6.0371,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2010,9.9949,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2011,5.3262,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2011,5.0823,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2011,10.231,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2012,3.493,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2012,3.493,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2012,8.3264,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2013,4.787,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2013,4.787,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2013,8.6914,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2014,5.8695,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2014,5.8695,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2014,10.707,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2016,4.1522,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2016,4.1522,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2016,6.6345,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2017,4.7211,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2017,4.7211,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2017,6.1315,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2018,4.9146,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2018,4.9146,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2018,5.2912,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2019,5.2271,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2019,5.2271,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2019,6.6586,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2020,4.9719,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2020,4.9719,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2020,6.9336,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2023,8.6236,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2024,8.7323,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2025,4.6167,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2025,9.4522,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2025,5.6393,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2026,5.164,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2026,10.6597,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2026,6.214,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2027,5.1228,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2027,11.2694,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2027,6.1708,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2028,5.0854,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2028,11.8521,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2028,6.1315,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2029,5.0742,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2029,12.4177,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2029,6.1197,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2030,5.0517,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2030,12.9439,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2030,6.0961,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2031,5.0442,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2031,13.7987,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2031,6.0882,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2032,5.0255,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2032,14.6484,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2032,6.0686,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2033,5.0255,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2033,15.5016,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2033,6.0686,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2034,5.0143,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2034,16.3456,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2034,6.0568,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2035,5.0068,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2035,17.2003,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2035,6.049,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2036,5.0068,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2036,18.0599,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2036,6.049,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2037,5.0106,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2037,18.9258,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2037,6.0529,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2038,5.0106,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2038,19.7949,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2038,6.0529,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2039,5.0143,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2039,20.674,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2039,6.0568,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2040,5.0143,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2040,21.5554,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2040,6.0568,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2041,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2041,22.697,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2041,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2042,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2042,23.837,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2042,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2043,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2043,24.9858,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2043,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2044,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2044,26.1363,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2044,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2045,5.0181,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2045,27.2856,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2045,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2046,5.0181,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2046,28.4399,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2046,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2047,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2047,29.5933,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2047,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2048,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2048,30.7434,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2048,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2049,5.0181,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2049,31.8964,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2049,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Natural Gas,2050,5.018,CAD,2022,$/GJ
+Alberta,Industrial,Natural Gas,2050,33.052,CAD,2022,$/GJ
+Alberta,Residential,Natural Gas,2050,6.0607,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2005,28.6369,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2005,18.3333,CAD,2022,$/GJ
+Alberta,Residential,Oil,2005,30.6415,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2006,30.0339,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Alberta,Residential,Oil,2006,31.9861,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2007,31.7618,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2007,19.8848,CAD,2022,$/GJ
+Alberta,Residential,Oil,2007,33.6675,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2008,38.1627,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Alberta,Residential,Oil,2008,40.0709,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2009,27.9282,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2009,21.7491,CAD,2022,$/GJ
+Alberta,Residential,Oil,2009,29.3246,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2010,31.0989,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2010,22.2571,CAD,2022,$/GJ
+Alberta,Residential,Oil,2010,32.6538,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2011,33.2078,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2011,27.582,CAD,2022,$/GJ
+Alberta,Residential,Oil,2011,34.8682,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2012,35.4425,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2012,28.2684,CAD,2022,$/GJ
+Alberta,Residential,Oil,2012,37.2146,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2013,32.5261,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Alberta,Residential,Oil,2013,34.1524,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2014,39.2085,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Alberta,Residential,Oil,2014,41.169,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2015,29.5286,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Alberta,Residential,Oil,2015,31.005,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2016,26.8961,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Alberta,Residential,Oil,2016,28.2409,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2017,28.3626,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Alberta,Residential,Oil,2017,29.7807,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2018,32.6774,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Alberta,Residential,Oil,2018,34.3113,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2019,34.3935,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Alberta,Residential,Oil,2019,36.0277,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2020,28.5064,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Alberta,Residential,Oil,2020,29.8044,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2021,33.2162,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Alberta,Residential,Oil,2021,34.7121,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2022,46.3427,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Alberta,Residential,Oil,2022,48.4647,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2023,43.8099,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Alberta,Residential,Oil,2023,45.7556,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2024,43.8425,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Alberta,Residential,Oil,2024,45.7415,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2025,32.1447,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Alberta,Residential,Oil,2025,33.752,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2026,30.0362,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Alberta,Residential,Oil,2026,31.538,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2027,30.3712,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Alberta,Residential,Oil,2027,31.8898,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2028,30.7094,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Alberta,Residential,Oil,2028,32.2449,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2029,31.3342,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Alberta,Residential,Oil,2029,32.9009,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2030,31.9223,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Alberta,Residential,Oil,2030,33.5184,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2031,31.8454,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Alberta,Residential,Oil,2031,33.4376,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2032,31.735,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Alberta,Residential,Oil,2032,33.3218,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2033,31.6809,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Alberta,Residential,Oil,2033,33.2649,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2034,31.5934,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Alberta,Residential,Oil,2034,33.1731,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2035,31.5173,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Alberta,Residential,Oil,2035,33.0931,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2036,31.4633,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Alberta,Residential,Oil,2036,33.0365,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2037,31.4204,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Alberta,Residential,Oil,2037,32.9914,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2038,31.3664,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Alberta,Residential,Oil,2038,32.9348,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2039,31.3234,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Alberta,Residential,Oil,2039,32.8896,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2040,31.2694,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Alberta,Residential,Oil,2040,32.8329,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2041,31.2262,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Alberta,Residential,Oil,2041,32.7876,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2042,31.1722,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Alberta,Residential,Oil,2042,32.7308,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2043,31.1182,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Alberta,Residential,Oil,2043,32.6741,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2044,31.0641,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Alberta,Residential,Oil,2044,32.6173,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2045,31.0101,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Alberta,Residential,Oil,2045,32.5606,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2046,30.956,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Alberta,Residential,Oil,2046,32.5038,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2047,30.902,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Alberta,Residential,Oil,2047,32.4471,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2048,30.8479,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Alberta,Residential,Oil,2048,32.3903,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2049,30.7939,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Alberta,Residential,Oil,2049,32.3336,CAD,2022,$/GJ
+Alberta,Commercial,Oil,2050,30.7399,CAD,2022,$/GJ
+Alberta,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Alberta,Residential,Oil,2050,32.2768,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2005,16.5998,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2005,19.6931,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2006,17.3653,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2006,13.2054,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2006,20.1931,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2007,17.0469,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2007,20.0122,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2008,15.7107,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2008,19.4612,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2009,16.4579,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2009,6.5705,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2009,19.4119,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2010,16.366,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2010,6.0371,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2010,19.4087,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2011,13.9195,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2011,5.0823,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2011,18.4985,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2012,12.3303,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2012,3.493,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2012,16.8531,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2013,12.0027,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2013,4.787,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2013,15.5784,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2014,12.912,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2014,5.8695,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2014,16.7131,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2015,12.0474,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2015,15.4195,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2016,9.5235,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2016,6.1841,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2016,12.504,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2017,9.6248,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2017,7.421,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2017,12.4108,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2018,9.0432,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2018,7.5845,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2018,11.9425,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2019,10.6313,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2019,5.2271,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2019,13.6437,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2020,11.3796,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2020,4.9719,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2020,14.3491,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2021,12.2288,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2021,15.0676,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2022,15.4835,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2022,18.3256,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2023,15.2897,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2023,18.3867,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2024,15.4236,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2024,6.9784,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2024,18.4932,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2025,10.4562,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2025,9.4513,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2025,13.3963,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2026,11.0057,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2026,10.661,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2026,13.9731,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2027,10.9643,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2027,11.2705,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2027,13.9298,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2028,10.9268,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2028,11.853,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2028,13.8903,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2029,10.9155,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2029,12.4186,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2029,13.8785,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2030,10.893,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2030,12.9447,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2030,13.8548,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2031,10.8854,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2031,13.7995,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2031,13.8469,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2032,10.8666,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2032,14.6491,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2032,13.8272,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2033,10.8666,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2033,15.5023,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2033,13.8272,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2034,10.8554,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2034,16.3462,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2034,13.8154,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2035,10.8479,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2035,17.2009,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2035,13.8075,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2036,10.8479,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2036,18.0605,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2036,13.8075,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2037,10.8516,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2037,18.9265,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2037,13.8114,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2038,10.8516,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2038,19.7955,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2038,13.8114,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2039,10.8554,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2039,20.6747,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2039,13.8154,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2040,10.8554,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2040,21.5561,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2040,13.8154,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2041,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2041,22.6977,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2041,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2042,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2042,23.8376,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2042,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2043,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2043,24.9865,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2043,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2044,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2044,26.137,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2044,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2045,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2045,27.2862,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2045,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2046,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2046,28.4405,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2046,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2047,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2047,29.5939,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2047,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2048,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2048,30.7441,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2048,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2049,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2049,31.897,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2049,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Natural Gas,2050,10.8591,CAD,2022,$/GJ
+British Columbia,Industrial,Natural Gas,2050,33.0527,CAD,2022,$/GJ
+British Columbia,Residential,Natural Gas,2050,13.8193,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2005,33.583,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2005,18.6334,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2005,35.9338,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2006,33.2531,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2006,35.4146,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2007,34.0007,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2007,19.2999,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2007,36.0326,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2008,40.7605,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2008,42.7904,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2009,30.0461,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2009,21.3771,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2009,31.5424,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2010,34.0109,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2010,22.6595,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2010,36.8903,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2011,38.1656,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2011,27.3094,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2011,42.7273,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2012,39.6215,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2012,28.5952,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2012,44.3571,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2013,41.2232,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2013,43.9947,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2014,42.2827,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2014,44.3884,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2015,34.8487,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2015,36.5842,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2016,31.7838,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2016,33.3666,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2017,34.6825,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2017,36.4098,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2018,40.4226,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2018,42.4356,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2019,39.7367,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2019,41.6304,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2020,33.0003,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2020,34.517,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2021,40.6214,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2021,42.4801,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2022,55.5659,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2022,58.1388,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2023,51.8197,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2023,54.1567,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2024,51.8486,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2024,24.3299,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2024,54.1387,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2025,39.0324,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2025,22.9155,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2025,40.9763,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2026,36.9155,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2026,21.8181,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2026,38.7539,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2027,37.2518,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2027,23.1594,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2027,39.107,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2028,37.5914,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2028,24.4565,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2028,39.4635,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2029,38.2187,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2029,25.9747,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2029,40.122,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2030,38.8091,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2030,27.4123,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2030,40.7418,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2031,38.7319,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2031,28.6667,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2031,40.6608,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2032,38.6211,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2032,29.8969,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2032,40.5445,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2033,38.5668,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2033,31.16,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2033,40.4874,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2034,38.4789,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2034,32.3928,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2034,40.3952,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2035,38.4025,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2035,33.6477,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2035,40.3149,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2036,38.3483,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2036,34.921,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2036,40.2581,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2037,38.3052,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2037,36.2093,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2037,40.2129,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2038,38.2511,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2038,37.4971,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2038,40.156,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2039,38.2078,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2039,38.8057,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2039,40.1106,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2040,38.1536,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2040,40.1126,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2040,40.0537,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2041,38.1103,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2041,41.8263,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2041,40.0082,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2042,38.056,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2042,43.5324,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2042,39.9513,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2043,38.0018,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2043,45.2522,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2043,39.8943,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2044,37.9475,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2044,46.9746,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2044,39.8373,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2045,37.8933,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2045,48.6949,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2045,39.7804,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2046,37.839,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2046,50.4231,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2046,39.7234,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2047,37.7847,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2047,52.1499,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2047,39.6664,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2048,37.7305,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2048,53.8718,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2048,39.6095,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2049,37.6762,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2049,55.5979,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2049,39.5525,CAD,2022,$/GJ
+British Columbia,Commercial,Oil,2050,37.622,CAD,2022,$/GJ
+British Columbia,Industrial,Oil,2050,57.3282,CAD,2022,$/GJ
+British Columbia,Residential,Oil,2050,39.4956,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2005,20.3124,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2006,13.2312,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2006,12.0891,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2006,19.3231,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2007,12.4523,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2007,18.5836,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2008,18.225,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2009,11.6591,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2009,6.5097,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2009,17.8473,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2010,9.9789,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2010,6.0371,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2010,14.6795,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2011,8.5493,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2011,5.0823,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2011,14.561,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2012,6.7331,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2012,3.493,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2012,12.6404,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2013,6.96,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2013,4.787,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2013,13.0502,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2014,7.9219,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2014,5.8695,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2014,13.7686,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2015,7.8472,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2015,14.3839,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2016,8.2626,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2016,6.7001,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2016,12.0859,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2017,8.8598,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2017,6.716,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2017,10.607,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2018,7.3309,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2018,6.1438,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2018,9.7762,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2019,7.8293,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2019,6.8321,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2019,11.1358,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2020,7.9027,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2020,6.5683,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2020,10.8723,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2021,8.6266,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2021,11.5039,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2022,13.0468,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2023,10.6898,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2023,9.7239,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2023,13.8954,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2024,10.8259,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2024,9.86,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2024,13.9892,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2025,6.6917,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2025,10.6684,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2025,9.7448,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2026,7.239,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2026,11.8759,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2026,10.3344,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2027,7.1978,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2027,12.4855,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2027,10.29,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2028,7.1604,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2028,13.0682,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2028,10.2497,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2029,7.1492,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2029,13.6339,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2029,10.2376,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2030,7.1267,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2030,14.16,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2030,10.2134,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2031,7.1192,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2031,15.0149,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2031,10.2054,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2032,7.1005,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2032,15.8646,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2032,10.1852,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2033,7.1005,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2033,16.7177,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2033,10.1852,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2034,7.0893,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2034,17.5617,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2034,10.1731,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2035,7.0818,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2035,18.4164,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2035,10.1651,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2036,7.0818,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2036,19.2761,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2036,10.1651,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2037,7.0856,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2037,20.142,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2037,10.1691,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2038,7.0856,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2038,21.011,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2038,10.1691,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2039,7.0893,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2039,21.8902,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2039,10.1731,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2040,7.0893,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2040,22.7716,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2040,10.1731,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2041,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2041,23.9132,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2041,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2042,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2042,25.0531,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2042,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2043,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2043,26.202,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2043,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2044,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2044,27.3525,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2044,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2045,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2045,28.5017,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2045,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2046,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2046,29.656,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2046,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2047,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2047,30.8094,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2047,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2048,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2048,31.9596,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2048,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2049,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2049,33.1125,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2049,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Natural Gas,2050,7.0931,CAD,2022,$/GJ
+Manitoba,Industrial,Natural Gas,2050,34.2681,CAD,2022,$/GJ
+Manitoba,Residential,Natural Gas,2050,10.1771,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2005,28.2856,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2005,18.3356,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2005,33.3125,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2006,28.5174,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2006,33.4027,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2007,30.3131,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2007,35.2524,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2008,37.4309,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2008,42.8738,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2009,27.1324,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2009,20.4522,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2009,31.3623,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2010,30.3096,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2010,24.6853,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2010,34.8937,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2011,35.4676,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2011,29.2712,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2011,40.6412,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2012,35.7332,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2012,31.7298,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2012,40.9279,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2013,36.1413,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2013,41.5536,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2014,37.4649,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2014,43.2173,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2015,28.6661,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2015,33.282,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2016,25.5464,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2016,29.7504,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2017,27.9349,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2017,32.4273,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2018,33.0743,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2018,38.2204,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2019,33.6085,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2019,38.5894,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2020,29.0533,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2020,33.0523,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2021,33.7743,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2021,38.1898,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2022,46.9165,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2022,52.7817,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2023,41.7602,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2023,46.8778,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2024,41.7929,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2024,46.7699,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2025,31.9136,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2025,36.4087,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2026,29.8051,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2026,34.0472,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2027,30.14,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2027,34.4224,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2028,30.4782,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2028,34.8012,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2029,31.103,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2029,35.5009,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2030,31.6911,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2030,36.1596,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2031,31.6142,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2031,36.0735,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2032,31.5039,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2032,35.9499,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2033,31.4497,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2033,35.8893,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2034,31.3623,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2034,35.7913,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2035,31.2861,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2035,35.706,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2036,31.2322,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2036,35.6456,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2037,31.1893,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2037,35.5975,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2038,31.1353,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2038,35.5371,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2039,31.0922,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2039,35.4889,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2040,31.0382,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2040,35.4284,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2041,30.9951,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2041,35.38,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2042,30.941,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2042,35.3195,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2043,30.887,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2043,35.259,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2044,30.833,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2044,35.1984,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2045,30.7789,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2045,35.1379,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2046,30.7249,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2046,35.0774,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2047,30.6708,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2047,35.0169,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2048,30.6168,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2048,34.9563,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2049,30.5627,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2049,34.8958,CAD,2022,$/GJ
+Manitoba,Commercial,Oil,2050,30.5087,CAD,2022,$/GJ
+Manitoba,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Manitoba,Residential,Oil,2050,34.8353,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2005,23.6875,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2006,15.8326,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2006,14.6627,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2006,23.7523,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2007,12.9366,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2007,14.8884,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2008,12.8435,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2008,17.575,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2009,9.4105,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2009,10.5676,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2009,18.3146,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2010,15.4503,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2010,9.1609,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2010,25.2003,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2011,16.7061,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2011,7.8151,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2011,21.5814,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2012,12.5456,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2012,6.7202,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2012,22.0792,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2013,11.1844,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2013,7.2747,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2013,23.5069,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2014,12.6116,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2014,7.5742,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2014,23.1702,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2015,13.4439,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2015,7.034,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2015,17.373,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2016,13.9006,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2016,5.896,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2016,11.8657,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2017,13.3858,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2017,5.9175,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2017,16.3791,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2018,12.7832,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2018,5.7205,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2018,16.3424,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2019,13.6332,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2019,6.8525,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2019,17.6381,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2020,13.7897,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2020,7.4441,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2020,19.2072,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2021,13.5704,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2021,7.6809,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2021,19.0988,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2022,13.1483,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2022,18.0729,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2023,12.4147,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2023,20.5903,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2024,12.5508,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2024,20.6989,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2025,10.7658,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2025,10.282,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2025,15.2176,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2026,11.3131,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2026,11.4895,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2026,15.7922,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2027,11.2719,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2027,12.0991,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2027,15.749,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2028,11.2345,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2028,12.6818,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2028,15.7097,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2029,11.2233,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2029,13.2474,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2029,15.6979,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2030,11.2008,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2030,13.7736,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2030,15.6743,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2031,11.1934,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2031,14.6285,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2031,15.6665,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2032,11.1746,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2032,15.4781,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2032,15.6468,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2033,11.1746,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2033,16.3313,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2033,15.6468,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2034,11.1634,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2034,17.1753,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2034,15.6351,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2035,11.1559,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2035,18.03,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2035,15.6272,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2036,11.1559,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2036,18.8897,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2036,15.6272,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2037,11.1597,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2037,19.7556,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2037,15.6311,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2038,11.1597,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2038,20.6246,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2038,15.6311,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2039,11.1634,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2039,21.5038,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2039,15.6351,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2040,11.1634,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2040,22.3852,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2040,15.6351,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2041,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2041,23.5268,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2041,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2042,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2042,24.6667,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2042,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2043,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2043,25.8156,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2043,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2044,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2044,26.9661,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2044,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2045,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2045,28.1153,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2045,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2046,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2046,29.2696,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2046,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2047,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2047,30.423,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2047,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2048,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2048,31.5732,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2048,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2049,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2049,32.7261,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2049,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Natural Gas,2050,11.1672,CAD,2022,$/GJ
+New Brunswick,Industrial,Natural Gas,2050,33.8817,CAD,2022,$/GJ
+New Brunswick,Residential,Natural Gas,2050,15.639,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2005,29.4995,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2005,18.5622,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2005,33.9245,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2006,29.4129,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2006,33.6778,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2007,30.312,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2007,34.5557,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2008,37.7175,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2008,42.6208,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2009,26.5492,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2009,21.1227,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2009,30.0006,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2010,30.0612,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2010,24.1062,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2010,33.9692,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2011,35.381,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2011,27.2689,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2011,39.9806,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2012,37.1095,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2012,28.6842,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2012,41.9337,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2013,35.7735,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2013,40.424,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2014,37.5101,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2014,42.3865,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2015,30.794,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2015,34.7973,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2016,26.5301,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2016,30.2443,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2017,28.9749,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2017,33.3212,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2018,33.5853,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2018,38.6231,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2019,34.3923,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2019,39.2947,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2020,29.2186,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2020,33.2195,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2021,35.7437,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2021,40.6104,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2022,53.461,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2022,60.895,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2023,51.8665,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2023,54.2152,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2024,46.0354,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2024,48.3372,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2025,35.8274,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2025,37.6188,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2026,33.7189,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2026,35.4049,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2027,34.0539,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2027,35.7566,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2028,34.3921,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2028,36.1117,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2029,35.0169,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2029,36.7678,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2030,35.605,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2030,37.3852,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2031,35.5281,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2031,37.3045,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2032,35.4177,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2032,37.1886,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2033,35.3636,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2033,37.1318,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2034,35.2761,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2034,37.0399,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2035,35.2,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2035,36.96,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2036,35.146,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2036,36.9033,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2037,35.1031,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2037,36.8583,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2038,35.0492,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2038,36.8016,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2039,35.0061,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2039,36.7564,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2040,34.9521,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2040,36.6997,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2041,34.9089,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2041,36.6544,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2042,34.8549,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2042,36.5977,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2043,34.8009,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2043,36.5409,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2044,34.7468,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2044,36.4842,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2045,34.6928,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2045,36.4274,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2046,34.6387,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2046,36.3707,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2047,34.5847,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2047,36.3139,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2048,34.5306,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2048,36.2572,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2049,34.4766,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2049,36.2005,CAD,2022,$/GJ
+New Brunswick,Commercial,Oil,2050,34.4226,CAD,2022,$/GJ
+New Brunswick,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+New Brunswick,Residential,Oil,2050,36.1437,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2005,23.6875,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2006,15.8326,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2006,14.6627,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2006,23.7523,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2007,12.9366,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2007,14.8884,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2008,12.8435,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2008,17.575,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2009,9.4105,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2009,10.5676,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2009,18.3146,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2010,15.4503,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2010,9.1609,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2010,25.2003,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2011,16.7061,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2011,7.8151,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2011,21.5814,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2012,12.5456,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2012,6.7202,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2012,22.0792,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2013,11.1844,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2013,7.2747,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2013,23.5069,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2014,12.6116,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2014,7.5742,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2014,23.1702,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2015,13.4439,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2015,7.034,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2015,17.373,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2016,13.9006,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2016,5.896,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2016,11.8657,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2017,13.3858,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2017,5.9175,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2017,16.3791,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2018,12.7832,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2018,5.7205,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2018,16.3424,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2019,13.6332,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2019,6.8525,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2019,17.6381,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2020,13.7897,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2020,7.4441,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2020,19.2072,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2021,13.5704,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2021,7.6809,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2021,19.0988,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2022,13.1483,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2022,18.0729,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2023,12.4147,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2023,20.5903,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2024,12.5508,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2024,20.6989,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2025,10.7658,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2025,10.282,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2025,15.2176,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2026,11.3131,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2026,11.4895,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2026,15.7922,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2027,11.2719,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2027,12.0991,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2027,15.749,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2028,11.2345,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2028,12.6818,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2028,15.7097,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2029,11.2233,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2029,13.2474,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2029,15.6979,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2030,11.2008,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2030,13.7736,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2030,15.6743,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2031,11.1934,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2031,14.6285,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2031,15.6665,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2032,11.1746,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2032,15.4781,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2032,15.6468,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2033,11.1746,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2033,16.3313,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2033,15.6468,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2034,11.1634,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2034,17.1753,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2034,15.6351,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2035,11.1559,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2035,18.03,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2035,15.6272,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2036,11.1559,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2036,18.8897,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2036,15.6272,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2037,11.1597,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2037,19.7556,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2037,15.6311,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2038,11.1597,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2038,20.6246,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2038,15.6311,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2039,11.1634,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2039,21.5038,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2039,15.6351,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2040,11.1634,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2040,22.3852,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2040,15.6351,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2041,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2041,23.5268,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2041,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2042,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2042,24.6667,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2042,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2043,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2043,25.8156,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2043,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2044,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2044,26.9661,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2044,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2045,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2045,28.1153,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2045,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2046,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2046,29.2696,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2046,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2047,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2047,30.423,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2047,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2048,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2048,31.5732,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2048,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2049,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2049,32.7261,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2049,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Natural Gas,2050,11.1672,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Natural Gas,2050,33.8817,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Natural Gas,2050,15.639,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2005,27.8823,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2005,19.6992,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2005,32.0647,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2006,29.4593,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2006,19.7951,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2006,33.7308,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2007,29.6136,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2007,19.7538,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2007,33.7595,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2008,35.8554,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2008,24.6734,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2008,40.5166,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2009,24.9388,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2009,22.4114,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2009,28.1809,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2010,28.8353,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2010,25.978,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2010,32.5839,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2011,34.8833,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2011,29.0211,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2011,39.4181,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2012,35.8159,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2012,30.3607,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2012,40.472,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2013,32.4986,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2013,36.7234,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2014,32.2806,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2014,36.4771,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2015,25.0077,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2015,28.2587,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2016,22.8848,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2016,26.0887,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2017,25.8007,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2017,29.6708,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2018,30.6534,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2018,35.2515,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2019,30.491,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2019,34.8081,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2020,24.2416,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2020,27.496,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2021,30.7274,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2021,34.8417,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2022,46.6005,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2022,53.0053,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2023,45.9479,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2023,48.0006,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2024,40.1167,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2024,42.1226,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2025,30.4927,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2025,32.0173,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2026,28.3842,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2026,29.8034,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2027,28.7191,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2027,30.1551,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2028,29.0573,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2028,30.5102,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2029,29.6822,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2029,31.1663,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2030,30.2702,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2030,31.7837,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2031,30.1933,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2031,31.703,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2032,30.083,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2032,31.5871,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2033,30.0289,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2033,31.5303,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2034,29.9414,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2034,31.4384,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2035,29.8652,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2035,31.3585,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2036,29.8113,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2036,31.3018,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2037,29.7684,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2037,31.2568,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2038,29.7144,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2038,31.2001,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2039,29.6714,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2039,31.1549,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2040,29.6173,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2040,31.0982,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2041,29.5742,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2041,31.0529,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2042,29.5201,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2042,30.9962,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2043,29.4661,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2043,30.9394,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2044,29.4121,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2044,30.8827,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2045,29.358,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2045,30.8259,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2046,29.304,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2046,30.7692,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2047,29.2499,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2047,30.7124,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2048,29.1959,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2048,30.6557,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2049,29.1418,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2049,30.5989,CAD,2022,$/GJ
+Newfoundland and Labrador,Commercial,Oil,2050,29.0878,CAD,2022,$/GJ
+Newfoundland and Labrador,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Newfoundland and Labrador,Residential,Oil,2050,30.5422,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2005,22.1378,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2005,17.1709,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2005,60.7475,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2006,22.4079,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2006,17.5202,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2006,55.2346,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2007,19.7124,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2007,14.9778,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2007,51.4113,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2008,19.0863,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2008,14.4931,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2008,49.8366,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2009,16.7222,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2009,12.0189,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2009,48.0686,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2010,14.8405,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2010,10.2677,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2010,45.2462,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2011,13.1189,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2011,8.6887,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2011,42.5136,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2012,11.8677,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2012,7.4893,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2012,40.8638,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2013,19.3305,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2013,8.7965,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2013,31.7104,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2014,22.1587,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2014,9.7298,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2014,32.6653,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2015,24.4285,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2015,9.0052,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2015,38.8592,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2016,20.9581,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2016,9.846,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2016,35.0505,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2017,16.1925,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2017,4.7211,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2017,28.4988,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2018,18.2097,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2018,4.9146,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2018,28.4123,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2019,19.3499,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2019,5.2271,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2019,29.7882,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2020,17.0244,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2020,5.6806,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2020,27.656,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2021,17.6779,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2021,27.3059,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2022,23.6069,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2022,34.5547,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2023,23.0015,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2023,32.1462,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2024,23.1376,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2024,32.2549,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2025,17.5867,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2025,9.594,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2025,27.7329,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2026,18.134,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2026,10.8015,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2026,28.3076,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2027,18.0928,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2027,11.4111,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2027,28.2643,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2028,18.0554,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2028,11.9938,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2028,28.2251,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2029,18.0441,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2029,12.5595,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2029,28.2133,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2030,18.0217,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2030,13.0856,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2030,28.1897,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2031,18.0142,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2031,13.9405,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2031,28.1818,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2032,17.9955,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2032,14.7901,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2032,28.1622,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2033,17.9955,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2033,15.6433,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2033,28.1622,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2034,17.9843,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2034,16.4873,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2034,28.1504,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2035,17.9768,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2035,17.342,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2035,28.1425,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2036,17.9768,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2036,18.2017,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2036,28.1425,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2037,17.9805,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2037,19.0676,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2037,28.1465,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2038,17.9805,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2038,19.9366,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2038,28.1465,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2039,17.9843,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2039,20.8158,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2039,28.1504,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2040,17.9843,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2040,21.6972,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2040,28.1504,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2041,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2041,22.8388,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2041,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2042,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2042,23.9787,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2042,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2043,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2043,25.1276,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2043,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2044,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2044,26.2781,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2044,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2045,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2045,27.4273,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2045,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2046,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2046,28.5816,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2046,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2047,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2047,29.735,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2047,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2048,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2048,30.8852,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2048,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2049,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2049,32.0381,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2049,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Natural Gas,2050,17.988,CAD,2022,$/GJ
+Nova Scotia,Industrial,Natural Gas,2050,33.1937,CAD,2022,$/GJ
+Nova Scotia,Residential,Natural Gas,2050,28.1543,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2005,29.671,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2005,18.023,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2005,34.1217,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2006,33.302,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2006,34.9671,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2007,30.8279,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2007,32.3693,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2008,37.4971,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2008,39.3719,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2009,26.845,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2009,20.9007,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2009,28.1872,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2010,29.9411,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2010,23.9901,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2010,31.4382,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2011,36.3451,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2011,26.9549,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2011,38.1623,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2012,37.7212,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2012,28.5707,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2012,39.6073,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2013,37.759,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2013,39.6469,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2014,40.7002,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2014,42.7353,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2015,32.4459,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2015,34.0682,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2016,28.2336,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2016,29.6453,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2017,29.8868,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2017,31.3811,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2018,33.3292,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2018,34.9957,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2019,34.1132,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2019,35.7333,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2020,28.1501,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2020,29.4304,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2021,34.7711,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2021,36.3447,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2022,51.471,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2022,53.8495,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2023,45.95,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2023,48.0028,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2024,40.1189,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2024,42.1248,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2025,33.7821,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2025,35.4712,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2026,31.6736,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2026,33.2573,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2027,32.0086,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2027,33.609,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2028,32.3468,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2028,33.9641,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2029,32.9716,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2029,34.6202,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2030,33.5596,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2030,35.2376,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2031,33.4827,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2031,35.1569,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2032,33.3724,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2032,35.041,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2033,33.3183,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2033,34.9842,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2034,33.2308,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2034,34.8923,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2035,33.1546,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2035,34.8123,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2036,33.1007,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2036,34.7557,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2037,33.0578,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2037,34.7107,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2038,33.0038,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2038,34.654,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2039,32.9608,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2039,34.6088,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2040,32.9068,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2040,34.5521,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2041,32.8636,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2041,34.5068,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2042,32.8096,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2042,34.45,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2043,32.7555,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2043,34.3933,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2044,32.7015,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2044,34.3366,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2045,32.6474,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2045,34.2798,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2046,32.5934,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2046,34.2231,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2047,32.5394,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2047,34.1663,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2048,32.4853,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2048,34.1096,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2049,32.4313,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2049,34.0528,CAD,2022,$/GJ
+Nova Scotia,Commercial,Oil,2050,32.3772,CAD,2022,$/GJ
+Nova Scotia,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Nova Scotia,Residential,Oil,2050,33.9961,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2005,20.9777,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2006,16.662,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2006,15.0677,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2006,22.3435,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2007,14.4899,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2007,13.4214,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2007,20.2062,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2008,15.1655,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2008,13.4116,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2008,20.3752,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2009,12.1396,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2009,10.5758,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2009,17.2607,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2010,12.2683,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2010,9.4464,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2010,17.0262,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2011,10.0149,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2011,7.7968,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2011,14.8487,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2012,8.864,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2012,6.5084,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2012,14.0786,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2013,9.2911,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2013,7.2117,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2013,14.0005,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2014,10.3868,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2014,7.879,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2014,15.0745,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2015,10.4627,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2015,7.6675,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2015,15.2288,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2016,7.7961,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2016,6.9066,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2016,11.8012,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2017,9.6608,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2017,8.3672,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2017,13.358,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2018,8.44,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2018,7.1592,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2018,11.661,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2019,7.1909,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2019,6.9196,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2019,11.6093,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2020,8.1552,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2020,7.6785,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2020,12.3802,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2021,8.5298,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2021,8.0547,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2021,12.6895,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2022,15.4236,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2023,11.7981,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2023,9.8289,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2023,16.2374,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2024,11.8629,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2024,9.965,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2024,16.3023,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2025,7.3458,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2025,11.0139,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2025,11.0918,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2026,7.9642,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2026,12.2214,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2026,11.7102,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2027,7.9177,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2027,12.8311,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2027,11.6637,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2028,7.8754,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2028,13.4137,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2028,11.6214,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2029,7.8627,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2029,13.9794,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2029,11.6087,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2030,7.8374,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2030,14.5055,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2030,11.5834,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2031,7.8289,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2031,15.3604,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2031,11.5749,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2032,7.8078,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2032,16.2101,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2032,11.5538,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2033,7.8078,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2033,17.0632,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2033,11.5538,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2034,7.7951,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2034,17.9072,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2034,11.5411,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2035,7.7866,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2035,18.7619,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2035,11.5326,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2036,7.7866,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2036,19.6216,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2036,11.5326,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2037,7.7908,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2037,20.4875,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2037,11.5368,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2038,7.7908,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2038,21.3565,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2038,11.5368,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2039,7.7951,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2039,22.2357,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2039,11.5411,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2040,7.7951,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2040,23.1171,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2040,11.5411,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2041,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2041,24.2587,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2041,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2042,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2042,25.3986,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2042,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2043,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2043,26.5475,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2043,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2044,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2044,27.698,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2044,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2045,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2045,28.8472,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2045,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2046,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2046,30.0015,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2046,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2047,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2047,31.1549,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2047,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2048,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2048,32.3051,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2048,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2049,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2049,33.458,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2049,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Natural Gas,2050,7.7993,CAD,2022,$/GJ
+Ontario,Industrial,Natural Gas,2050,34.6137,CAD,2022,$/GJ
+Ontario,Residential,Natural Gas,2050,11.5453,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2005,27.6695,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2005,17.3758,CAD,2022,$/GJ
+Ontario,Residential,Oil,2005,31.8199,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2006,28.5648,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Ontario,Residential,Oil,2006,32.7067,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2007,29.6052,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Ontario,Residential,Oil,2007,33.7499,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2008,36.9339,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Ontario,Residential,Oil,2008,41.7353,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2009,27.5166,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2009,20.3172,CAD,2022,$/GJ
+Ontario,Residential,Oil,2009,31.0938,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2010,31.3578,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2010,23.9566,CAD,2022,$/GJ
+Ontario,Residential,Oil,2010,35.4343,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2011,38.4885,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2011,28.6165,CAD,2022,$/GJ
+Ontario,Residential,Oil,2011,43.4921,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2012,39.15,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2012,30.6322,CAD,2022,$/GJ
+Ontario,Residential,Oil,2012,44.2395,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2013,38.9333,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Ontario,Residential,Oil,2013,43.9947,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2014,40.0722,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Ontario,Residential,Oil,2014,45.2816,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2015,33.9339,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Ontario,Residential,Oil,2015,38.3453,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2016,29.8671,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Ontario,Residential,Oil,2016,33.7498,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2017,34.1705,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Ontario,Residential,Oil,2017,38.6127,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2018,38.0112,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Ontario,Residential,Oil,2018,42.9527,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2019,38.4974,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Ontario,Residential,Oil,2019,43.2797,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2020,34.9552,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Ontario,Residential,Oil,2020,39.1685,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2021,40.0255,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Ontario,Residential,Oil,2021,44.7999,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2022,56.5107,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Ontario,Residential,Oil,2022,63.3499,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2023,49.4192,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Ontario,Residential,Oil,2023,55.2074,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2024,49.4518,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Ontario,Residential,Oil,2024,55.1183,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2025,38.7726,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Ontario,Residential,Oil,2025,43.813,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2026,36.6641,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Ontario,Residential,Oil,2026,41.4304,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2027,36.9991,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Ontario,Residential,Oil,2027,41.8089,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2028,37.3373,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Ontario,Residential,Oil,2028,42.1911,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2029,37.9621,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Ontario,Residential,Oil,2029,42.8971,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2030,38.5501,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Ontario,Residential,Oil,2030,43.5616,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2031,38.4732,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Ontario,Residential,Oil,2031,43.4748,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2032,38.3629,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Ontario,Residential,Oil,2032,43.3501,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2033,38.3088,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Ontario,Residential,Oil,2033,43.2889,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2034,38.2213,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Ontario,Residential,Oil,2034,43.1901,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2035,38.1451,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Ontario,Residential,Oil,2035,43.104,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2036,38.0912,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Ontario,Residential,Oil,2036,43.0431,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2037,38.0483,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Ontario,Residential,Oil,2037,42.9946,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2038,37.9943,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Ontario,Residential,Oil,2038,42.9336,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2039,37.9513,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Ontario,Residential,Oil,2039,42.8849,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2040,37.8973,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Ontario,Residential,Oil,2040,42.8239,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2041,37.8541,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Ontario,Residential,Oil,2041,42.7751,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2042,37.8001,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Ontario,Residential,Oil,2042,42.7141,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2043,37.746,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Ontario,Residential,Oil,2043,42.653,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2044,37.692,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Ontario,Residential,Oil,2044,42.5919,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2045,37.6379,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Ontario,Residential,Oil,2045,42.5309,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2046,37.5839,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Ontario,Residential,Oil,2046,42.4698,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2047,37.5299,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Ontario,Residential,Oil,2047,42.4087,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2048,37.4758,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Ontario,Residential,Oil,2048,42.3477,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2049,37.4218,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Ontario,Residential,Oil,2049,42.2866,CAD,2022,$/GJ
+Ontario,Commercial,Oil,2050,37.3677,CAD,2022,$/GJ
+Ontario,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Ontario,Residential,Oil,2050,42.2255,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2005,16.7461,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2005,23.6875,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2006,17.0219,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2006,15.7641,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2006,23.7523,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2007,13.913,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2007,14.8884,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2008,12.6344,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2008,13.822,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2008,17.575,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2009,10.1275,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2009,11.3727,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2009,18.3146,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2010,16.6274,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2010,9.8589,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2010,25.2003,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2011,17.9789,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2011,8.4106,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2011,21.5814,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2012,13.5015,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2012,7.2322,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2012,22.0792,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2013,11.0863,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2013,7.2108,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2013,23.043,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2014,12.501,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2014,7.5078,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2014,23.1702,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2015,10.1277,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2015,5.2989,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2015,13.2035,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2016,13.9006,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2016,5.896,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2016,11.8917,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2017,13.3858,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2017,5.9175,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2017,16.3791,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2018,12.7832,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2018,5.7205,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2018,16.3424,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2019,13.6332,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2019,6.8525,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2019,17.6381,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2020,13.7897,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2020,7.4441,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2020,19.2072,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2021,13.5704,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2021,7.6809,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2021,19.0988,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2022,13.1483,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2022,18.0729,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2023,12.4147,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2023,6.8445,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2023,20.5903,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2024,12.5508,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2024,6.9806,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2024,20.6989,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2025,10.7658,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2025,10.282,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2025,15.2176,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2026,11.3131,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2026,11.4895,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2026,15.7922,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2027,11.2719,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2027,12.0991,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2027,15.749,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2028,11.2345,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2028,12.6818,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2028,15.7097,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2029,11.2233,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2029,13.2474,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2029,15.6979,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2030,11.2008,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2030,13.7736,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2030,15.6743,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2031,11.1934,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2031,14.6285,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2031,15.6665,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2032,11.1746,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2032,15.4781,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2032,15.6468,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2033,11.1746,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2033,16.3313,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2033,15.6468,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2034,11.1634,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2034,17.1753,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2034,15.6351,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2035,11.1559,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2035,18.03,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2035,15.6272,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2036,11.1559,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2036,18.8897,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2036,15.6272,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2037,11.1597,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2037,19.7556,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2037,15.6311,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2038,11.1597,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2038,20.6246,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2038,15.6311,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2039,11.1634,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2039,21.5038,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2039,15.6351,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2040,11.1634,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2040,22.3852,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2040,15.6351,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2041,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2041,23.5268,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2041,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2042,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2042,24.6667,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2042,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2043,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2043,25.8156,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2043,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2044,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2044,26.9661,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2044,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2045,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2045,28.1153,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2045,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2046,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2046,29.2696,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2046,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2047,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2047,30.423,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2047,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2048,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2048,31.5732,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2048,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2049,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2049,32.7261,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2049,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Natural Gas,2050,11.1672,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Natural Gas,2050,33.8817,CAD,2022,$/GJ
+Prince Edward Island,Residential,Natural Gas,2050,15.639,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2005,28.1463,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2005,18.4149,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2005,30.1165,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2006,28.9708,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2006,30.8539,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2007,28.8349,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2007,30.5649,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2008,36.066,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2008,37.8694,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2009,25.9303,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2009,21.1584,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2009,27.2268,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2010,29.2127,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2010,24.1286,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2010,30.6733,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2011,35.6932,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2011,27.4416,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2011,37.4779,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2012,37.063,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2012,28.8286,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2012,38.9162,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2013,34.302,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2013,38.3325,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2014,36.7416,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2014,38.4563,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2015,28.5611,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2015,29.894,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2016,24.6699,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2016,25.8417,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2017,25.9806,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2017,27.2796,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2018,30.8593,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2018,32.4023,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2019,31.5821,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2019,33.0757,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2020,24.8851,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2020,26.0021,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2021,31.7043,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2021,33.1246,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2022,47.0991,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2022,49.259,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2023,45.1392,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2023,43.127,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2024,39.3081,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2024,37.3427,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2025,30.973,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2025,29.4243,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2026,28.8645,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2026,27.4212,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2027,29.1994,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2027,27.7395,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2028,29.5376,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2028,28.0608,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2029,30.1625,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2029,28.6543,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2030,30.7505,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2030,29.213,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2031,30.6736,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2031,29.1399,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2032,30.5633,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2032,29.0351,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2033,30.5092,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2033,28.9837,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2034,30.4217,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2034,28.9006,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2035,30.3455,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2035,28.8282,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2036,30.2916,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2036,28.777,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2037,30.2487,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2037,28.7362,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2038,30.1947,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2038,28.685,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2039,30.1517,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2039,28.6441,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2040,30.0977,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2040,28.5928,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2041,30.0545,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2041,28.5518,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2042,30.0004,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2042,28.5004,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2043,29.9464,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2043,28.4491,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2044,29.8924,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2044,28.3977,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2045,29.8383,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2045,28.3464,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2046,29.7843,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2046,28.2951,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2047,29.7302,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2047,28.2437,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2048,29.6762,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2048,28.1924,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2049,29.6222,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2049,28.141,CAD,2022,$/GJ
+Prince Edward Island,Commercial,Oil,2050,29.5681,CAD,2022,$/GJ
+Prince Edward Island,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Prince Edward Island,Residential,Oil,2050,28.0897,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2005,16.8613,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2005,16.4949,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2005,25.4641,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2006,19.1102,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2006,16.9169,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2006,25.5338,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2007,14.4796,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2007,23.844,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2008,20.6878,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2008,24.4524,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2009,16.5436,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2009,10.6904,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2009,23.3141,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2010,15.9422,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2010,9.9578,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2010,23.0843,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2011,12.9304,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2011,8.9969,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2011,22.0196,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2012,14.4647,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2012,7.9407,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2012,21.4071,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2013,12.0555,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2013,6.9105,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2013,18.7004,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2014,12.5038,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2014,7.8445,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2014,20.3046,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2015,11.77,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2015,7.4903,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2015,18.9104,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2016,13.6013,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2016,8.6268,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2016,17.241,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2017,13.4529,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2017,9.0404,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2017,16.8458,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2018,12.9192,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2018,8.202,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2018,15.9716,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2019,13.6405,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2019,5.2271,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2019,18.0886,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2020,12.0571,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2020,5.1481,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2020,15.4566,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2021,12.0118,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2021,15.1459,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2022,14.6988,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2022,18.8385,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2023,14.2434,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2023,7.375,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2023,18.7162,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2024,13.7586,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2024,6.8901,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2024,18.1493,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2025,15.7222,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2025,9.5935,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2025,19.6056,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2026,16.9278,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2026,10.801,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2026,20.8932,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2027,17.5359,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2027,11.4107,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2027,21.4951,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2028,18.0686,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2028,11.9934,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2028,22.0221,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2029,18.6333,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2029,12.559,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2029,22.5852,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2030,19.1121,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2030,13.0852,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2030,23.0606,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2031,18.9489,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2031,13.9401,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2031,22.8963,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2032,18.7806,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2032,14.7897,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2032,22.7252,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2033,18.6158,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2033,15.6429,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2033,22.5604,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2034,18.4417,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2034,16.4869,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2034,22.3847,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2035,18.2785,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2035,17.3416,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2035,22.2203,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2036,18.1201,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2036,18.2012,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2036,22.0619,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2037,17.968,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2037,19.0672,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2037,21.9104,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2038,17.819,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2038,19.9362,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2038,21.7614,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2039,17.6802,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2039,20.8153,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2039,21.6231,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2040,17.5436,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2040,21.6968,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2040,21.4865,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2041,17.4127,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2041,22.8384,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2041,21.3562,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2042,17.2802,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2042,23.9783,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2042,21.2236,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2043,17.1565,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2043,25.1272,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2043,21.1,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2044,17.0345,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2044,26.2777,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2044,20.978,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2045,16.9112,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2045,27.4269,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2045,20.8547,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2046,16.793,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2046,28.5812,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2046,20.7365,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2047,16.6739,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2047,29.7346,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2047,20.6174,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2048,16.5516,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2048,30.8848,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2048,20.4951,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2049,16.432,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2049,32.0377,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2049,20.3755,CAD,2022,$/GJ
+Quebec,Commercial,Natural Gas,2050,16.3152,CAD,2022,$/GJ
+Quebec,Industrial,Natural Gas,2050,33.1933,CAD,2022,$/GJ
+Quebec,Residential,Natural Gas,2050,20.2587,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2005,24.9419,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2005,17.3758,CAD,2022,$/GJ
+Quebec,Residential,Oil,2005,30.5891,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2006,25.7073,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Quebec,Residential,Oil,2006,31.2749,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2007,26.1539,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Quebec,Residential,Oil,2007,31.5795,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2008,35.3038,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Quebec,Residential,Oil,2008,41.5409,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2009,24.0084,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2009,18.6157,CAD,2022,$/GJ
+Quebec,Residential,Oil,2009,28.8317,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2010,27.2119,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2010,21.0473,CAD,2022,$/GJ
+Quebec,Residential,Oil,2010,32.3996,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2011,33.5385,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2011,25.1695,CAD,2022,$/GJ
+Quebec,Residential,Oil,2011,39.8556,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2012,35.0561,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2012,27.1811,CAD,2022,$/GJ
+Quebec,Residential,Oil,2012,41.9484,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2013,34.3361,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Quebec,Residential,Oil,2013,41.0914,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2014,34.9064,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Quebec,Residential,Oil,2014,41.7173,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2015,28.3267,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Quebec,Residential,Oil,2015,34.1654,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2016,24.0424,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Quebec,Residential,Oil,2016,29.2281,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2017,26.3443,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Quebec,Residential,Oil,2017,31.835,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2018,32.0601,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Quebec,Residential,Oil,2018,38.3809,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2019,32.0542,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Quebec,Residential,Oil,2019,38.0959,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2020,27.3792,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Quebec,Residential,Oil,2020,32.58,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2021,31.969,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Quebec,Residential,Oil,2021,37.6363,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2022,49.9148,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Quebec,Residential,Oil,2022,58.0795,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2023,45.8843,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Quebec,Residential,Oil,2023,53.2791,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2024,45.0373,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2024,23.3747,CAD,2022,$/GJ
+Quebec,Residential,Oil,2024,52.241,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2025,39.325,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Quebec,Residential,Oil,2025,45.3723,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2026,38.149,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Quebec,Residential,Oil,2026,43.8806,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2027,39.4037,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Quebec,Residential,Oil,2027,45.1854,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2028,40.5494,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Quebec,Residential,Oil,2028,46.3817,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2029,41.99,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Quebec,Residential,Oil,2029,47.9159,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2030,43.2881,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Quebec,Residential,Oil,2030,49.302,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2031,42.9907,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Quebec,Residential,Oil,2031,48.9932,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2032,42.6684,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Quebec,Residential,Oil,2032,48.6543,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2033,42.3808,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Quebec,Residential,Oil,2033,48.3587,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2034,42.0627,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Quebec,Residential,Oil,2034,48.0275,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2035,41.7659,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Quebec,Residential,Oil,2035,47.7192,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2036,41.4876,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Quebec,Residential,Oil,2036,47.4329,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2037,41.224,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Quebec,Residential,Oil,2037,47.1628,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2038,40.959,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Quebec,Residential,Oil,2038,46.8897,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2039,40.714,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Quebec,Residential,Oil,2039,46.6383,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2040,40.4665,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Quebec,Residential,Oil,2040,46.3827,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2041,40.2326,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Quebec,Residential,Oil,2041,46.1424,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2042,39.9908,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Quebec,Residential,Oil,2042,45.8925,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2043,39.7616,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Quebec,Residential,Oil,2043,45.6552,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2044,39.5348,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Quebec,Residential,Oil,2044,45.4203,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2045,39.3061,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Quebec,Residential,Oil,2045,45.1835,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2046,39.0846,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Quebec,Residential,Oil,2046,44.9539,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2047,38.8619,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Quebec,Residential,Oil,2047,44.7231,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2048,38.6346,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Quebec,Residential,Oil,2048,44.4877,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2049,38.4111,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Quebec,Residential,Oil,2049,44.2561,CAD,2022,$/GJ
+Quebec,Commercial,Oil,2050,38.1916,CAD,2022,$/GJ
+Quebec,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Quebec,Residential,Oil,2050,44.0285,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2005,15.7697,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2005,17.6844,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2006,11.1529,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2006,11.1529,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2006,17.5099,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2007,12.7692,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2007,10.5896,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2007,17.0445,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2008,12.6096,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2008,15.4327,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2009,11.4286,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2009,6.414,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2009,17.692,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2010,8.4825,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2010,6.0371,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2010,15.4025,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2011,9.364,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2011,5.0823,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2011,14.1255,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2012,9.5346,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2012,3.493,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2012,13.7264,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2013,8.9642,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2013,4.787,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2013,13.3044,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2014,8.3297,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2014,5.8695,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2014,11.5231,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2015,11.0537,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2015,4.2282,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2015,12.9801,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2016,8.4579,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2016,6.0106,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2016,11.0275,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2017,5.9397,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2017,5.5187,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2017,10.2189,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2018,8.0765,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2018,4.9146,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2018,9.4039,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2019,7.7346,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2019,6.0479,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2019,10.5602,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2020,8.2683,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2020,6.6589,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2020,11.5504,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2021,8.7104,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2021,7.6299,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2021,11.6492,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2022,11.1373,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2022,12.3914,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2023,10.3096,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2023,8.4561,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2023,13.7322,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2024,10.4457,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2024,8.5922,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2024,13.808,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2025,6.6866,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2025,10.2761,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2025,9.4052,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2026,7.2339,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2026,11.4836,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2026,10.0127,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2027,7.1927,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2027,12.0933,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2027,9.967,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2028,7.1553,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2028,12.6759,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2028,9.9254,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2029,7.1441,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2029,13.2416,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2029,9.913,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2030,7.1216,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2030,13.7677,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2030,9.8881,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2031,7.1141,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2031,14.6226,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2031,9.8798,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2032,7.0954,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2032,15.4723,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2032,9.859,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2033,7.0954,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2033,16.3255,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2033,9.859,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2034,7.0842,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2034,17.1694,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2034,9.8465,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2035,7.0767,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2035,18.0242,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2035,9.8382,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2036,7.0767,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2036,18.8838,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2036,9.8382,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2037,7.0805,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2037,19.7497,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2037,9.8424,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2038,7.0805,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2038,20.6187,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2038,9.8424,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2039,7.0842,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2039,21.4979,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2039,9.8465,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2040,7.0842,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2040,22.3793,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2040,9.8465,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2041,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2041,23.5209,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2041,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2042,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2042,24.6609,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2042,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2043,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2043,25.8097,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2043,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2044,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2044,26.9602,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2044,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2045,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2045,28.1094,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2045,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2046,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2046,29.2637,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2046,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2047,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2047,30.4171,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2047,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2048,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2048,31.5673,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2048,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2049,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2049,32.7202,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2049,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Natural Gas,2050,7.0879,CAD,2022,$/GJ
+Saskatchewan,Industrial,Natural Gas,2050,33.8759,CAD,2022,$/GJ
+Saskatchewan,Residential,Natural Gas,2050,9.8507,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2005,28.6369,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2005,18.1423,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2005,32.6461,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2006,30.0339,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2006,18.9341,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2006,33.9894,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2007,31.7618,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2007,19.286,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2007,35.2556,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2008,38.1627,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2008,24.1738,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2008,41.979,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2009,27.9282,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2009,21.3423,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2009,30.721,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2010,31.0989,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2010,22.0686,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2010,34.2088,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2011,33.2078,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2011,27.5761,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2011,36.5286,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2012,35.4425,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2012,27.8774,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2012,38.9867,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2013,32.5261,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2013,24.3562,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2013,35.7787,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2014,39.2085,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2014,23.3982,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2014,43.1294,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2015,29.5286,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2015,14.4402,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2015,32.4814,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2016,26.8961,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2016,12.4219,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2016,29.5857,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2017,28.3626,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2017,14.6811,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2017,31.4116,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2018,32.6774,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2018,18.9528,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2018,36.2719,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2019,34.3935,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2019,19.1405,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2019,37.9887,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2020,28.5064,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2020,13.9684,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2020,31.3621,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2021,33.2162,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2021,20.0955,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2021,36.5071,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2022,46.3427,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2022,26.8805,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2022,51.0112,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2023,43.8099,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2023,24.2136,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2023,48.0906,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2024,43.8425,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2024,24.3336,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2024,48.0202,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2025,32.1447,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2025,22.9229,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2025,35.6806,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2026,30.0362,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2026,21.8339,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2026,33.3402,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2027,30.3712,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2027,23.1739,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2027,33.712,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2028,30.7094,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2028,24.4696,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2028,34.0874,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2029,31.3342,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2029,25.9853,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2029,34.781,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2030,31.9223,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2030,27.4205,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2030,35.4337,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2031,31.8454,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2031,28.6753,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2031,35.3484,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2032,31.735,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2032,29.9059,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2032,35.2259,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2033,31.6809,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2033,31.1692,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2033,35.1658,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2034,31.5934,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2034,32.4023,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2034,35.0687,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2035,31.5173,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2035,33.6576,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2035,34.9841,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2036,31.4633,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2036,34.9311,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2036,34.9243,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2037,31.4204,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2037,36.2196,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2037,34.8767,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2038,31.3664,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2038,37.5076,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2038,34.8167,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2039,31.3234,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2039,38.8163,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2039,34.769,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2040,31.2694,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2040,40.1234,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2040,34.709,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2041,31.2262,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2041,41.8374,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2041,34.6611,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2042,31.1722,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2042,43.5436,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2042,34.6011,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2043,31.1182,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2043,45.2636,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2043,34.5412,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2044,31.0641,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2044,46.9862,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2044,34.4812,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2045,31.0101,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2045,48.7068,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2045,34.4212,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2046,30.956,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2046,50.4352,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2046,34.3612,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2047,30.902,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2047,52.1623,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2047,34.3012,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2048,30.8479,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2048,53.8843,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2048,34.2412,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2049,30.7939,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2049,55.6106,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2049,34.1812,CAD,2022,$/GJ
+Saskatchewan,Commercial,Oil,2050,30.7399,CAD,2022,$/GJ
+Saskatchewan,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
+Saskatchewan,Residential,Oil,2050,34.1212,CAD,2022,$/GJ

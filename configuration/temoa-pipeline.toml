@@ -1,0 +1,34 @@
+input_database = "canoe-pwd/canoe-net-zero.sqlite"
+
+[representative_periods_config]
+demand_preservation="annual"
+
+[representative_periods_config.clustering]
+kind = "tsam"
+data_dir = "assets/rep_periods_data/timeseries"
+weather_year = 2018
+# Series clustered: patterns of their paths in data_dir without .csv; all series
+# if neither is set (not both)
+include = ["*_temperature", "*_humidity", "*_wind_speed", "*_irradiance_surface"]
+# exclude = ["ontario/*"]
+# Principal components clustered (leave out to cluster the series themselves)
+pca_components = 6
+# hierarchical, k_means, k_medoids or adjacent_periods
+method = "hierarchical"
+# Representative days, forced and extreme days included
+n_periods = 8
+forced_days = []
+# Days with the highest/lowest hourly value (peak) or daily mean of any series
+# of data_dir
+max_peak = []
+min_peak = []
+max_mean = []
+min_mean = []
+
+[temoa_config]
+solver = "gurobi"
+scenario_mode = "perfect_foresight"
+silent = false
+save_duals = true
+save_lp_file = true
+extensions = ["growth_rates", "carbon_markets", "unit_commitment"]

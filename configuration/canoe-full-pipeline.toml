@@ -1,0 +1,135 @@
+# ####################################################################################
+# COMPILER CONFIG
+# ####################################################################################
+[compiler.base]
+schema_version = "4.0"
+db_output_dir = "canoe-pwd/canoe-net-zero.sqlite"
+# Version in the data set codes (e.g. COMHR003), inherited by the sectors
+data_version = "003"
+existing_periods = [
+  1970,
+  1975,
+  1980,
+  1985,
+  1990,
+  1995,
+  2000,
+  2005,
+  2010,
+  2015,
+  2020,
+  2022,
+  2024,
+]
+future_periods = [2025, 2030, 2035, 2040, 2045]
+period_step = 5
+provinces = ["AB", "ON", "BC", "MB", "SK", "QC", "PEI", "NS", "NB", "NLLAB"]
+# provinces = ["ON"]
+global_discount_rate = 0.03
+
+# GDP projections that scale the sector demands, inherited by the sectors
+gdp = { source = "cer", scenario = "Global Net-zero" }
+population = { source = "statcan" }
+demand_projection_point = "period_end"
+price_projection_point = "period_end"
+
+# Year of the Canadian dollars model costs are written in, inherited by the modules
+model_currency_year = 2020
+
+# ####################################################################################
+# CACHE CONFIG
+# ####################################################################################
+[compiler.base.data_cache_config]
+cache_dir = ".cache"
+cache_date = "2026-08-10"
+force_sync = false
+
+# ####################################################################################
+# END-USE SECTORS CONFIG
+# ####################################################################################
+[compiler.sectors]
+commercial = "configuration/sector-configs/commercial-default.toml"
+agriculture ="configuration/sector-configs/agriculture-default.toml"
+industry =   "configuration/sector-configs/industry-default.toml"
+residential ="configuration/sector-configs/residential-default.toml"
+
+# Ghost transportation (which is inserted afterwards)
+[compiler.sectors.transportation]
+module_name = "ghost"
+sector = "TRP"
+fuels = ["ELC", "HFO", "GSL", "ETH", "DSL", "RDSL", "CNG", "JTF", "SPK", "MDO", "LNG", "H2"]
+dataset_code_description = "HR"
+
+# ####################################################################################
+# ELECTRICITY CONFIG
+# ####################################################################################
+[compiler.electricity]
+config_file = "configuration/sector-configs/electricity-default.toml"
+
+# ####################################################################################
+# FUELS CONFIG
+# ####################################################################################
+[compiler.fuel]
+price_sources = [{source = "eia" }, { source = "atb" }, { source = "fixed" }]
+price_fallback = "per_series"
+reproduce_previous_price_errors = false
+reproduce_previous_emission_errors = false
+validation_behavior = "error"
+missing_data_behavior = "warning"
+
+# ####################################################################################
+# REPRESENTATIVE PERIODS CONFIG
+# ####################################################################################
+# Reduce the database to representative days before running Temoa
+[representative_periods_config]
+# What the reduced database keeps of each demand: "hourly" values of the
+# representative days (the annual demand changes) or the "annual" demand
+demand_preservation = "annual"
+# Share of each demand's distribution set to zero, from its smallest values
+dsd_threshold = 0.01
+
+# The clustering to apply: one of a collection precomputed with tsam, by name (the
+# collections packaged with canoe, or those in `collections_dir` if set)
+# [representative_periods_config.clustering]
+# kind = "tsam_collection"
+# collection = "weather2018-hierarchical-pca6"
+# # collections_dir = "path/to/my/clusterings"
+# # Representative days, forced days included
+# n_periods = 1
+# # Days added as representative days
+# # forced_days = ["D041"]
+
+# Or the days clustered with tsam when the pipeline runs, on your own series: one
+# CSV per series under `data_dir`, named after it, with a `time` column (with UTC
+# offsets) and the values
+[representative_periods_config.clustering]
+kind = "tsam"
+data_dir = "assets/rep_periods_data/timeseries"
+weather_year = 2018
+# Series clustered: patterns of their paths in data_dir without .csv; all series
+# if neither is set (not both)
+include = ["*_temperature", "*_humidity", "*_wind_speed", "*_irradiance_surface"]
+# exclude = ["ontario/*"]
+# Principal components clustered (leave out to cluster the series themselves)
+pca_components = 6
+# hierarchical, k_means, k_medoids or adjacent_periods
+method = "hierarchical"
+# Representative days, forced and extreme days included
+n_periods = 8
+forced_days = []
+# Days with the highest/lowest hourly value (peak) or daily mean of any series
+# of data_dir
+max_peak = []
+min_peak = []
+max_mean = []
+min_mean = []
+
+# ####################################################################################
+# TEMOA CONFIG
+# ####################################################################################
+[temoa_config]
+solver = "gurobi"
+scenario_mode = "perfect_foresight"
+silent = false
+save_duals = false
+extensions = ["growth_rates", "unit_commitment", "carbon_markets"]
