@@ -2759,3 +2759,923 @@ Saskatchewan,Residential,Oil,2049,34.1812,CAD,2022,$/GJ
 Saskatchewan,Commercial,Oil,2050,30.7399,CAD,2022,$/GJ
 Saskatchewan,Industrial,Oil,2050,57.3411,CAD,2022,$/GJ
 Saskatchewan,Residential,Oil,2050,34.1212,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2005,37.4961,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2005,40.2435,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2006,38.1206,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2006,42.176,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2007,39.1447,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2007,43.5211,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2008,46.6048,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2008,46.939,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2009,33.0975,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2009,38.1403,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2010,35.3062,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2010,39.1391,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2011,42.2508,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2011,44.9945,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2012,42.1625,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2012,45.0822,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2013,42.9617,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2013,44.6575,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2014,45.3216,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2014,44.3701,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2015,35.2181,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2015,37.3289,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2016,32.8385,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2016,35.2993,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2017,35.484,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2017,36.8494,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2018,40.5942,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2018,42.3641,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2019,40.1701,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2019,39.6804,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2020,33.7229,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2020,34.224,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2021,38.4283,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2021,43.3039,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2022,52.6972,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2022,52.1923,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2023,46.8108,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2023,46.8808,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2024,46.5062,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2024,46.5172,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2025,36.3893,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2025,37.1628,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2026,34.1754,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2026,34.9489,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2027,34.5271,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2027,35.3006,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2028,34.8822,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2028,35.6557,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2029,35.5382,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2029,36.3118,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2030,36.1557,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2030,36.9292,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2031,36.075,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2031,36.8485,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2032,35.9591,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2032,36.7326,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2033,35.9023,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2033,36.6758,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2034,35.8104,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2034,36.5839,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2035,35.7305,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2035,36.5039,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2036,35.6738,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2036,36.4473,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2037,35.6288,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2037,36.4023,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2038,35.5721,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2038,36.3456,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2039,35.5269,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2039,36.3004,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2040,35.4702,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2040,36.2437,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2041,35.4249,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2041,36.1984,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2042,35.3681,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2042,36.1416,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2043,35.3114,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2043,36.0849,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2044,35.2547,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2044,36.0282,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2045,35.1979,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2045,35.9714,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2046,35.1412,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2046,35.9147,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2047,35.0844,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2047,35.8579,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2048,35.0277,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2048,35.8012,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2049,34.9709,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2049,35.7444,CAD,2022,$/GJ
+Alberta,Transportation,Diesel,2050,34.9142,CAD,2022,$/GJ
+Alberta,Transportation,Gasoline,2050,35.6877,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2005,43.4005,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2005,45.5673,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2006,43.9033,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2006,47.4192,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2007,43.1588,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2007,47.8845,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2008,50.4038,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2008,50.8791,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2009,37.5276,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2009,43.0725,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2010,42.752,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2010,46.865,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2011,50.4076,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2011,53.6729,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2012,51.6341,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2012,53.6502,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2013,49.3039,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2013,50.8907,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2014,49.0068,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2014,49.1857,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2015,40.6717,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2015,44.6272,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2016,36.9891,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2016,41.7742,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2017,39.4136,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2017,46.1991,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2018,44.4555,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2018,50.6596,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2019,45.5418,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2019,51.6647,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2020,38.8327,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2020,44.4749,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2021,45.5251,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2021,52.0607,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2022,58.9218,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2022,59.7768,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2023,53.6138,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2023,56.7912,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2024,54.4188,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2024,57.0496,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2025,42.4247,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2025,46.4818,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2026,40.2108,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2026,44.2678,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2027,40.5625,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2027,44.6196,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2028,40.9176,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2028,44.9747,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2029,41.5737,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2029,45.6307,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2030,42.1911,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2030,46.2482,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2031,42.1104,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2031,46.1675,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2032,41.9945,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2032,46.0516,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2033,41.9377,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2033,45.9948,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2034,41.8459,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2034,45.9029,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2035,41.7659,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2035,45.8229,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2036,41.7093,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2036,45.7663,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2037,41.6642,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2037,45.7212,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2038,41.6075,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2038,45.6646,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2039,41.5623,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2039,45.6194,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2040,41.5056,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2040,45.5627,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2041,41.4603,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2041,45.5174,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2042,41.4036,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2042,45.4606,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2043,41.3468,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2043,45.4039,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2044,41.2901,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2044,45.3471,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2045,41.2333,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2045,45.2904,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2046,41.1766,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2046,45.2336,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2047,41.1199,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2047,45.1769,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2048,41.0631,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2048,45.1202,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2049,41.0064,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2049,45.0634,CAD,2022,$/GJ
+British Columbia,Transportation,Diesel,2050,40.9496,CAD,2022,$/GJ
+British Columbia,Transportation,Gasoline,2050,45.0067,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2005,42.0055,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2005,45.0967,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2006,41.9892,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2006,46.9975,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2007,42.5207,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2007,48.1785,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2008,50.9831,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2008,52.2578,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2009,37.3625,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2009,43.6833,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2010,40.2498,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2010,44.1296,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2011,46.8214,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2011,50.2118,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2012,47.4424,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2012,51.2764,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2013,48.9579,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2013,51.8001,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2014,51.1058,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2014,49.8802,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2015,39.7539,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2015,41.6434,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2016,36.5579,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2016,39.3182,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2017,39.4922,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2017,40.489,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2018,45.2173,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2018,45.9034,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2019,44.3415,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2019,44.0687,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2020,38.1094,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2020,37.3687,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2021,42.2402,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2021,45.903,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2022,58.3896,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2022,57.634,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2023,51.9009,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2023,51.6446,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2024,50.9166,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2024,50.6743,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2025,40.1217,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2025,40.4034,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2026,37.7602,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2026,38.0419,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2027,38.1354,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2027,38.417,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2028,38.5141,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2028,38.7958,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2029,39.2139,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2029,39.4956,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2030,39.8726,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2030,40.1542,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2031,39.7864,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2031,40.0681,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2032,39.6629,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2032,39.9445,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2033,39.6022,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2033,39.8839,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2034,39.5043,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2034,39.7859,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2035,39.4189,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2035,39.7006,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2036,39.3586,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2036,39.6402,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2037,39.3105,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2037,39.5922,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2038,39.25,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2038,39.5317,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2039,39.2018,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2039,39.4835,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2040,39.1414,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2040,39.423,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2041,39.093,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2041,39.3747,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2042,39.0325,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2042,39.3142,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2043,38.972,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2043,39.2536,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2044,38.9114,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2044,39.1931,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2045,38.8509,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2045,39.1326,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2046,38.7904,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2046,39.0721,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2047,38.7298,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2047,39.0115,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2048,38.6693,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2048,38.951,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2049,38.6088,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2049,38.8905,CAD,2022,$/GJ
+Manitoba,Transportation,Diesel,2050,38.5483,CAD,2022,$/GJ
+Manitoba,Transportation,Gasoline,2050,38.8299,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2005,45.0048,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2005,46.4412,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2006,45.4522,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2006,47.5439,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2007,44.3699,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2007,47.205,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2008,52.3672,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2008,50.4352,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2009,39.9046,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2009,41.86,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2010,42.1822,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2010,44.3277,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2011,50.2122,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2011,50.7529,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2012,51.2373,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2012,52.2172,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2013,50.7886,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2013,51.0645,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2014,50.5218,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2014,50.5059,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2015,42.194,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2015,34.8352,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2016,39.1452,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2016,39.3854,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2017,41.6738,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2017,42.2606,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2018,46.4761,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2018,45.8713,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2019,45.9183,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2019,44.5095,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2020,34.9143,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2020,35.4094,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2021,41.812,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2021,44.9365,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2022,60.8577,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2022,54.8949,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2023,54.0237,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2023,52.0974,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2024,53.5594,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2024,51.642,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2025,40.5259,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2025,39.6999,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2026,38.1011,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2026,37.2752,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2027,38.4863,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2027,37.6604,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2028,38.8752,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2028,38.0493,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2029,39.5938,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2029,38.7678,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2030,40.27,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2030,39.4441,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2031,40.1816,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2031,39.3557,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2032,40.0547,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2032,39.2288,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2033,39.9925,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2033,39.1666,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2034,39.8919,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2034,39.0659,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2035,39.8043,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2035,38.9784,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2036,39.7423,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2036,38.9163,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2037,39.6929,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2037,38.867,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2038,39.6308,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2038,38.8049,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2039,39.5814,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2039,38.7554,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2040,39.5192,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2040,38.6933,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2041,39.4696,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2041,38.6437,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2042,39.4075,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2042,38.5815,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2043,39.3453,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2043,38.5194,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2044,39.2832,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2044,38.4572,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2045,39.221,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2045,38.3951,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2046,39.1589,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2046,38.333,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2047,39.0967,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2047,38.2708,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2048,39.0346,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2048,38.2087,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2049,38.9724,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2049,38.1465,CAD,2022,$/GJ
+New Brunswick,Transportation,Diesel,2050,38.9103,CAD,2022,$/GJ
+New Brunswick,Transportation,Gasoline,2050,38.0844,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2005,46.7102,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2005,48.5077,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2006,47.9148,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2006,50.6298,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2007,46.6863,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2007,50.5099,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2008,54.2715,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2008,53.8143,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2009,41.3821,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2009,45.6786,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2010,44.3338,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2010,48.005,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2011,51.1833,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2011,54.147,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2012,52.0747,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2012,55.2141,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2013,51.688,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2013,53.5571,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2014,51.1955,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2014,52.9552,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2015,43.3092,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2015,44.863,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2016,42.8861,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2016,50.9218,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2017,45.0934,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2017,53.5395,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2018,49.8331,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2018,51.2807,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2019,49.1487,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2019,49.1647,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2020,38.5603,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2020,41.4126,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2021,46.449,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2021,51.8592,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2022,65.4518,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2022,61.6444,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2023,54.588,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2023,54.6971,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2024,54.2236,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2024,54.291,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2025,41.7032,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2025,42.3943,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2026,39.2784,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2026,39.9695,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2027,39.6636,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2027,40.3548,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2028,40.0525,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2028,40.7437,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2029,40.7711,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2029,41.4622,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2030,41.4473,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2030,42.1385,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2031,41.3589,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2031,42.0501,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2032,41.232,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2032,41.9232,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2033,41.1698,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2033,41.8609,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2034,41.0691,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2034,41.7603,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2035,40.9816,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2035,41.6727,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2036,40.9196,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2036,41.6107,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2037,40.8702,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2037,41.5614,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2038,40.8081,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2038,41.4993,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2039,40.7586,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2039,41.4498,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2040,40.6965,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2040,41.3877,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2041,40.6469,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2041,41.3381,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2042,40.5848,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2042,41.2759,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2043,40.5226,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2043,41.2138,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2044,40.4605,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2044,41.1516,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2045,40.3983,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2045,41.0895,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2046,40.3362,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2046,41.0273,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2047,40.274,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2047,40.9652,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2048,40.2119,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2048,40.903,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2049,40.1497,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2049,40.8409,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Diesel,2050,40.0876,CAD,2022,$/GJ
+Newfoundland and Labrador,Transportation,Gasoline,2050,40.7787,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2005,43.1389,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2005,46.5725,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2006,44.3506,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2006,48.2471,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2007,43.6004,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2007,48.2234,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2008,50.815,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2008,50.7485,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2009,38.7537,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2009,42.5045,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2010,41.7486,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2010,45.6164,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2011,48.5775,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2011,52.0634,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2012,49.9306,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2012,53.9057,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2013,49.4029,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2013,52.8938,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2014,48.9407,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2014,51.9055,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2015,39.267,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2015,42.2451,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2016,35.1847,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2016,39.3165,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2017,37.7828,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2017,41.883,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2018,42.7872,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2018,45.1664,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2019,42.6793,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2019,44.3123,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2020,34.2441,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2020,36.7223,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2021,42.3084,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2021,47.3797,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2022,61.3631,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2022,57.5094,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2023,53.3567,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2023,52.8531,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2024,52.8933,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2024,52.3298,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2025,40.411,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2025,41.2565,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2026,37.9863,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2026,38.8317,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2027,38.3715,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2027,39.217,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2028,38.7604,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2028,39.6059,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2029,39.4789,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2029,40.3244,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2030,40.1552,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2030,41.0007,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2031,40.0668,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2031,40.9123,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2032,39.9399,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2032,40.7854,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2033,39.8776,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2033,40.7231,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2034,39.777,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2034,40.6225,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2035,39.6894,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2035,40.5349,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2036,39.6274,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2036,40.4729,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2037,39.5781,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2037,40.4236,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2038,39.516,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2038,40.3615,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2039,39.4665,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2039,40.312,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2040,39.4044,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2040,40.2499,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2041,39.3548,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2041,40.2003,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2042,39.2926,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2042,40.1381,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2043,39.2305,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2043,40.076,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2044,39.1683,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2044,40.0138,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2045,39.1062,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2045,39.9517,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2046,39.044,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2046,39.8895,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2047,38.9819,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2047,39.8274,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2048,38.9197,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2048,39.7652,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2049,38.8576,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2049,39.7031,CAD,2022,$/GJ
+Nova Scotia,Transportation,Diesel,2050,38.7954,CAD,2022,$/GJ
+Nova Scotia,Transportation,Gasoline,2050,39.6409,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2005,39.2394,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2005,42.5663,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2006,40.4953,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2006,43.2774,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2007,39.9927,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2007,43.9774,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2008,47.718,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2008,47.3922,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2009,36.337,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2009,39.9425,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2010,39.7609,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2010,43.3523,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2011,47.8764,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2011,51.2392,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2012,47.1288,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2012,51.6656,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2013,46.8075,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2013,51.0817,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2014,47.4755,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2014,50.2716,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2015,39.2279,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2015,41.8299,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2016,34.3895,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2016,39.2073,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2017,35.2891,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2017,44.1982,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2018,43.5728,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2018,47.5825,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2019,40.6409,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2019,43.6838,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2020,34.216,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2020,36.674,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2021,39.5531,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2021,44.8782,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2022,56.6486,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2022,54.1915,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2023,46.9182,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2023,48.0257,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2024,46.5848,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2024,47.6212,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2025,35.695,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2025,37.5527,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2026,33.3124,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2026,35.1701,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2027,33.691,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2027,35.5486,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2028,34.0731,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2028,35.9308,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2029,34.7792,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2029,36.6368,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2030,35.4437,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2030,37.3013,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2031,35.3568,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2031,37.2144,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2032,35.2321,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2032,37.0898,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2033,35.1709,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2033,37.0286,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2034,35.0721,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2034,36.9297,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2035,34.986,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2035,36.8437,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2036,34.9251,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2036,36.7827,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2037,34.8766,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2037,36.7342,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2038,34.8156,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2038,36.6732,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2039,34.767,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2039,36.6246,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2040,34.7059,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2040,36.5636,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2041,34.6572,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2041,36.5148,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2042,34.5961,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2042,36.4538,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2043,34.535,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2043,36.3927,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2044,34.474,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2044,36.3316,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2045,34.4129,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2045,36.2705,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2046,34.3518,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2046,36.2095,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2047,34.2908,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2047,36.1484,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2048,34.2297,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2048,36.0873,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2049,34.1686,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2049,36.0263,CAD,2022,$/GJ
+Ontario,Transportation,Diesel,2050,34.1075,CAD,2022,$/GJ
+Ontario,Transportation,Gasoline,2050,35.9652,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2005,43.3511,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2005,45.7802,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2006,44.5961,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2006,47.5842,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2007,43.6118,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2007,46.5302,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2008,51.0868,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2008,48.8408,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2009,38.5081,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2009,40.8825,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2010,40.9041,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2010,43.0586,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2011,47.3795,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2011,49.0183,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2012,48.2861,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2012,50.4951,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2013,51.3004,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2013,51.4815,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2014,51.6034,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2014,51.5494,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2015,42.5834,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2015,41.9246,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2016,38.5163,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2016,38.9793,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2017,41.1899,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2017,41.7202,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2018,46.5671,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2018,45.693,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2019,46.3483,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2019,44.3446,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2020,34.9158,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2020,35.4881,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2021,42.2209,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2021,45.1255,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2022,61.2551,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2022,55.6526,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2023,54.4546,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2023,52.2355,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2024,54.0122,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2024,51.8152,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2025,40.9329,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2025,40.0178,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2026,38.5082,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2026,37.593,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2027,38.8934,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2027,37.9782,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2028,39.2823,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2028,38.3672,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2029,40.0009,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2029,39.0857,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2030,40.6771,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2030,39.762,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2031,40.5887,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2031,39.6735,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2032,40.4618,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2032,39.5466,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2033,40.3996,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2033,39.4844,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2034,40.2989,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2034,39.3838,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2035,40.2114,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2035,39.2962,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2036,40.1493,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2036,39.2342,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2037,40.1,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2037,39.1848,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2038,40.0379,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2038,39.1228,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2039,39.9884,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2039,39.0733,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2040,39.9263,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2040,39.0112,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2041,39.8767,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2041,38.9615,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2042,39.8145,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2042,38.8994,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2043,39.7524,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2043,38.8372,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2044,39.6903,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2044,38.7751,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2045,39.6281,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2045,38.7129,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2046,39.566,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2046,38.6508,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2047,39.5038,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2047,38.5886,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2048,39.4417,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2048,38.5265,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2049,39.3795,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2049,38.4643,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Diesel,2050,39.3174,CAD,2022,$/GJ
+Prince Edward Island,Transportation,Gasoline,2050,38.4022,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2005,44.1795,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2005,45.7706,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2006,44.9937,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2006,47.1003,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2007,44.2046,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2007,47.2888,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2008,52.5272,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2008,50.9045,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2009,39.9098,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2009,42.6974,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2010,42.6505,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2010,45.2386,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2011,50.3066,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2011,53.0479,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2012,52.0473,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2012,55.1895,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2013,51.396,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2013,54.5636,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2014,51.2044,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2014,53.2231,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2015,43.6158,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2015,44.883,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2016,38.5383,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2016,41.6778,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2017,40.7667,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2017,44.5765,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2018,46.4027,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2018,48.7491,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2019,46.0846,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2019,47.3144,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2020,39.8897,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2020,40.9051,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2021,43.9932,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2021,49.3075,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2022,64.3136,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2022,60.427,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2023,59.0306,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2023,56.7296,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2024,57.6343,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2024,55.0982,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2025,50.7923,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2025,50.6729,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2026,49.272,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2026,49.141,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2027,50.5486,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2027,50.4062,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2028,51.7203,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2028,51.5677,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2029,53.2294,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2029,53.0667,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2030,54.5938,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2030,54.4222,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2031,54.2916,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2031,54.1228,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2032,53.9593,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2032,53.7931,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2033,53.6708,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2033,53.5075,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2034,53.3467,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2034,53.1863,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2035,53.0452,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2035,52.8875,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2036,52.7657,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2036,52.6109,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2037,52.5024,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2037,52.3503,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2038,52.2358,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2038,52.0864,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2039,51.9906,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2039,51.8436,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2040,51.7409,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2040,51.5964,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2041,51.5064,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2041,51.3643,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2042,51.2623,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2042,51.1225,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2043,51.0304,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2043,50.8927,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2044,50.8007,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2044,50.6653,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2045,50.5693,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2045,50.436,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2046,50.3449,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2046,50.2137,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2047,50.1192,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2047,49.9901,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2048,49.8891,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2048,49.7622,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2049,49.6628,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2049,49.538,CAD,2022,$/GJ
+Quebec,Transportation,Diesel,2050,49.4402,CAD,2022,$/GJ
+Quebec,Transportation,Gasoline,2050,49.3175,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2005,43.3388,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2005,46.9191,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2006,43.527,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2006,49.0382,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2007,43.1349,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2007,49.1014,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2008,51.3076,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2008,52.691,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2009,37.4973,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2009,44.3415,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2010,39.9784,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2010,45.3672,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2011,47.3981,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2011,52.1689,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2012,46.759,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2012,52.288,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2013,47.4381,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2013,50.2546,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2014,50.009,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2014,49.6029,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2015,38.9263,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2015,41.8423,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2016,35.2652,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2016,38.365,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2017,38.1205,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2017,40.1737,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2018,43.9167,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2018,46.2587,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2019,43.883,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2019,44.1775,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2020,36.9812,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2020,37.9468,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2021,41.1642,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2021,45.8498,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2022,56.7588,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2022,55.3792,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2023,50.8345,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2023,50.4012,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2024,50.4264,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2024,49.9355,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2025,39.6784,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2025,40.393,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2026,37.338,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2026,38.0526,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2027,37.7098,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2027,38.4244,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2028,38.0852,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2028,38.7998,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2029,38.7788,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2029,39.4934,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2030,39.4315,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2030,40.1461,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2031,39.3462,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2031,40.0608,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2032,39.2237,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2032,39.9383,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2033,39.1636,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2033,39.8782,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2034,39.0665,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2034,39.7811,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2035,38.982,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2035,39.6965,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2036,38.9221,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2036,39.6367,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2037,38.8745,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2037,39.589,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2038,38.8146,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2038,39.5291,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2039,38.7668,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2039,39.4814,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2040,38.7068,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2040,39.4214,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2041,38.6589,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2041,39.3735,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2042,38.599,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2042,39.3135,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2043,38.539,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2043,39.2535,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2044,38.479,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2044,39.1936,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2045,38.419,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2045,39.1336,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2046,38.359,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2046,39.0736,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2047,38.299,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2047,39.0136,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2048,38.239,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2048,38.9536,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2049,38.179,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2049,38.8936,CAD,2022,$/GJ
+Saskatchewan,Transportation,Diesel,2050,38.1191,CAD,2022,$/GJ
+Saskatchewan,Transportation,Gasoline,2050,38.8336,CAD,2022,$/GJ

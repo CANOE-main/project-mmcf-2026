@@ -1,7 +1,7 @@
 import pandas as pd
 
 def process_emh_csv():
-    cef_series = pd.read_csv("data/cef2026series_oct21_mmcf_r3.csv")
+    cef_series = pd.read_csv("data/cef2026series_nov3_mmcf_r3.csv")
     cef_series.columns = ["parameter", "region", "year", "price", "unit", "notes"]
     energy_prices = cef_series[cef_series["parameter"].str.startswith("End-use price - ")]
     energy_prices["fuel"] = energy_prices.parameter.apply(lambda s: s.split(" - ")[1].strip(" "))
