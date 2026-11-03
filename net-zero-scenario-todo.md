@@ -1,5 +1,7 @@
 # Net-zero scenario (MMCF TF2 reference run) TODO
 
+CHECK IF WE WANT TO USE THE FUEL PRICES
+
 Reference run = Run 1 common configuration (EF2026 Canada Net-zero) with CANOE's own cost ratios.
 
 ## Done

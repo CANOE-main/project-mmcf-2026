@@ -21,6 +21,7 @@ def add_cer(
     commodity_data_id: str = 'ELCHR003',
     fuel_vintage: int = 2025,
     exclude_tech_pattern: str = '%RFIT%',
+    exempt_tech_pattern: str = r'%\_CG-%',
     periods: range = range(2035, 2046, 5),
     final_period: int = 2045,
     grandfather_years: int = 25,
@@ -43,6 +44,8 @@ def add_cer(
     :param commodity_data_id: data_id for the new commodity row.
     :param fuel_vintage: Vintage of the F_E_* fuel techs used for fuel emission factors.
     :param exclude_tech_pattern: LIKE pattern of E_* techs whose own emissions are ignored.
+    :param exempt_tech_pattern: LIKE pattern (escape char '\\') of E_* techs fully exempt
+        from the CER (no CER emissions or caps), e.g. cogeneration.
     :param periods: Periods the CER applies to.
     :param final_period: Period where the final cap and credit limit apply.
     :param grandfather_years: Units are covered once period >= vintage + grandfather_years.
@@ -112,6 +115,7 @@ def add_cer(
             SELECT DISTINCT region, input_comm, tech, vintage, output_comm, efficiency
             FROM efficiency
             WHERE tech LIKE 'E_%'
+                AND tech NOT LIKE ? ESCAPE '\\'
                 AND input_comm IN (
                     SELECT DISTINCT output_comm
                     FROM emission_activity
@@ -121,7 +125,7 @@ def add_cer(
                 )
             """,
             conn,
-            params=(source_emis_comm, fuel_vintage)
+            params=(exempt_tech_pattern, source_emis_comm, fuel_vintage)
         )
         df_emission_activity = pd.read_sql_query(
             """
