@@ -37,7 +37,7 @@ def add_coal_phaseout(
             curs.execute(
                 """
                 REPLACE INTO
-                limit_activity(region, period, tech_or_group, operator, activity, units, notes, data_id)
+                limit_capacity(region, period, tech_or_group, operator, capacity, units, notes, data_id)
                 VALUES(?, ?, ?, 'le', 0, 'PJ', ?, ?)
                 """,
                 (region, period, tech, notes, data_id)
