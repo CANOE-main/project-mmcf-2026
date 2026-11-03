@@ -10,6 +10,7 @@ from canoe.pipeline import CANOECompilerConfig, CANOEPipelineConfig, run_compile
 from canoe.representative_periods.build import build_representative_periods
 from canoe.temoa_protocol import run_temoa
 from loguru import logger
+from scripts.add_cogen_flex import add_cogen_flex
 from scripts.add_building_codes import add_building_codes
 from scripts.add_candu_forced_refurb import add_candu_forced_refurb
 from scripts.add_cer import add_cer
@@ -80,6 +81,7 @@ def main(existing_db: Path | None = None) -> None:
     # Post-hoc policies (Net-Zero)
     add_building_codes(str(db))
     add_coal_phaseout(str(db))
+    add_cogen_flex(str(db))
     add_candu_forced_refurb(str(db))
     add_uc(str(db), pd.read_csv("data/unit_commitment_data.csv"))
     add_cer(str(db))
