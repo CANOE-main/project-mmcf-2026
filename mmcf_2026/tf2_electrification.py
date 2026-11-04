@@ -31,6 +31,9 @@ QC_WCI_PRICE: float | None = None  # 2030 WCI price in 2020 C$/t (constant real)
 # Economy-wide carbon price in 2020 C$/t, constant or {year: price} (read at period end,
 # interpolated). Quebec is excluded when QC_WCI_PRICE is set. None = no global price.
 GLOBAL_CARBON_PRICE: float | dict[int, float] | None = 10_000
+# Unit commitment with the policies: adds the UC data (add_uc) and enables Temoa's
+# unit_commitment extension. Both go together, the extension needs add_uc's tables.
+UNIT_COMMITMENT = False
 
 
 # ---------------------------------------------------------------------------
@@ -54,7 +57,12 @@ def modify_compiler_config(compiler_config: CANOECompilerConfig) -> None:
 # Default pipeline: compiler -> post-processing -> rep periods -> Temoa
 # ---------------------------------------------------------------------------
 
-def main(existing_db: Path | None = None, nz_policies: bool = True, scenario_name: str | None = None) -> None:
+def main(
+    existing_db: Path | None = None,
+    nz_policies: bool = True,
+    carbon_price: bool = True,
+    scenario_name: str | None = None,
+) -> None:
     with CONFIG_FILE.open("rb") as f:
         pipeline_config = CANOEPipelineConfig.model_validate(tomllib.load(f))
 
@@ -68,6 +76,11 @@ def main(existing_db: Path | None = None, nz_policies: bool = True, scenario_nam
     if existing_db is None:
         modify_compiler_config(compiler_config)
         run_compiler(compiler_config)
+        if scenario_name:
+            # Keep the compiler output clean for other scenarios (--db), work on a copy
+            existing_db, db = db, db.with_stem(scenario_name)
+            logger.info(f"Copying compiler output {existing_db} -> {db}")
+            shutil.copyfile(existing_db, db)
     else:
         # Post-processing edits the database in place, so work on a copy
         if scenario_name:
@@ -85,14 +98,15 @@ def main(existing_db: Path | None = None, nz_policies: bool = True, scenario_nam
     module_cp_run(str(trp_src_db), str(db), "TRP%", "data_set", ("T_*", "F_T_*"), version="003")
 
     # Post-hoc policies (Net-Zero)
-    if GLOBAL_CARBON_PRICE is not None:
+    if carbon_price and GLOBAL_CARBON_PRICE is not None:
         add_carbon_price(str(db), GLOBAL_CARBON_PRICE, exclude=() if QC_WCI_PRICE is None else ('QC',))
     if nz_policies:
         add_building_codes(str(db))
         add_coal_phaseout(str(db))
         add_cogen_flex(str(db))
         add_candu_forced_refurb(str(db))
-        add_uc(str(db), pd.read_csv("data/unit_commitment_data.csv"))
+        if UNIT_COMMITMENT:
+            add_uc(str(db), pd.read_csv("data/unit_commitment_data.csv"))
         add_cer(str(db))
         add_data_centres(str(db))
         add_itcs(str(db))
@@ -120,7 +134,9 @@ def main(existing_db: Path | None = None, nz_policies: bool = True, scenario_nam
     temoa_config = pipeline_config.temoa_config
     assert temoa_config is not None
     if nz_policies:
-        temoa_config.extensions += ["unit_commitment", "carbon_markets"]
+        temoa_config.extensions += ["carbon_markets"]
+        if UNIT_COMMITMENT:
+            temoa_config.extensions += ["unit_commitment"]
     run_temoa(db_path=rep_period_output.db_path, config=temoa_config)
 
 
@@ -128,6 +144,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--db", type=Path, help="skip the compiler and start from this compiled database")
     parser.add_argument("--nz-policies", action="store_true")
-    parser.add_argument("--scenario-name", type=str)
+    parser.add_argument("--carbon-price", action="store_true", help="apply GLOBAL_CARBON_PRICE")
+    parser.add_argument("--scenario-name", type=str, help="name of the scenario database (compiler output kept clean)")
     args = parser.parse_args()
-    main(existing_db=args.db, nz_policies=args.nz_policies, scenario_name=args.scenario_name)
+    main(
+        existing_db=args.db,
+        nz_policies=args.nz_policies,
+        carbon_price=args.carbon_price,
+        scenario_name=args.scenario_name,
+    )
