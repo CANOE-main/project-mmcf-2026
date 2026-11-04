@@ -2,7 +2,7 @@
 Add the Clean Economy Investment Tax Credits as reductions to investment cost.
 - Clean Technology ITC: 30% to 2033 (15% in 2034, then 0)
 - Clean Electricity ITC: 15% to 2034, not stackable with Clean Technology
-Applied to vintages 2025 and 2030 (builds 2025-2034). To be checked against EF2026 Appendix 1.
+Applied to vintages 2025 and 2030 (builds 2025-2034). Checked against EF2026 Appendix 1.
 """
 
 from canoe.common import atomic_transaction
