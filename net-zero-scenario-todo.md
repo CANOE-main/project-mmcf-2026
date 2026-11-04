@@ -10,14 +10,16 @@ Reference run = Run 1 common configuration (EF2026 Canada Net-zero) with CANOE's
 - [x] Unit commitment + extension enabled
 - [x] Building codes shell efficiency (fixed: demand names are uppercase, it was a no-op before); read at period end
 - [x] Temoa fork `idelder/temoa@mmcf_2026`
-- [x] Net-zero endpoint (`add_net_zero_cap`), skipped until `NET_ZERO_RESIDUAL_CO2E` is set
+- [x] Net-zero endpoint (`add_net_zero_cap`), `NET_ZERO_CAP_MT` = 505 x 1.10 Mt CO2e
+- [x] End-use efficiencies held at the 2025 vintage (`add_frozen_efficiencies`, all runs)
+- [x] Harmonized cost ratios for Run 1 / Run 2 (`add_cost_ratios`, `--cost-ratios run1|run2`)
+- [x] Submission runs script (`mmcf_2026/run_tf2_runs.sh`): reference, Run 1, Run 2
 - [x] Data centre load (`add_data_centres`): new electric-only demand `C_D_DC`, flat profile
 - [x] Clean Economy ITCs (`add_itcs`), rates and eligibility checked against EF2026 Appendix 1
 - [x] Methane regulations (`add_methane`): fixed dummy emitter `OG_CH4`, path checked against EF2026 Appendix 1
 - [x] Quebec WCI (`add_qc_wci`), skipped until `QC_WCI_PRICE` is set
 
 ## To do
-- [ ] Set `NET_ZERO_RESIDUAL_CO2E` (EF2026 residual emissions for CANOE's sectors, kt CO2e)
 - [ ] Set `QC_WCI_PRICE` (2030 WCI price, converted to 2020 C$/t)
 
 ## Inventory only (no model change)
@@ -37,7 +39,16 @@ Reference run = Run 1 common configuration (EF2026 Canada Net-zero) with CANOE's
 - 2050 reporting from the 2045 period: to state
 
 ## Decisions
-- Net-zero endpoint: cap national co2e in the 2045 period at the EF2026 residual (value TBD), not zero; CANOE has no negative-emission techs
+- Efficiencies: data book asks for 2024 values, no learning. Every future vintage of `T_`, `R_` and `C_` techs takes its 2025-vintage efficiency (the first model vintage, closest to 2024), in all three runs. Electricity techs untouched (their vintage differences are CCS retrofits and new plants, not end-use learning)
+- Net-zero endpoint: cap national co2e in the 2045 period, not zero (CANOE has no negative-emission techs). Cap = 505 Mt, the 2045 minimum found with a very high carbon price (policies on), plus 10% slack so the cap is not the only feasible solution and the cost ratios can still move the result: 555.5 Mt. Closest feasible run, to compare with the EF2026 residual in the inventory. Same cap in the reference run, Run 1 and Run 2; global carbon price off
+- Harmonized cost ratios (`add_cost_ratios`, data book 3 Nov tab 2a): conventional keeps CANOE's cost, emerging = conventional x ratio. Applied before the ITCs. Mapping:
+  - B1 heat pump: residential air-source heat pump / gas furnace; also residential water heating (heat pump / gas). Geo-exchange heat pumps not mapped
+  - Commercial space heating: not mapped (deviation from the study design's suggested mapping, which it leaves to each team). CANOE costs commercial heat pumps per PJ/y as a combined heating and cooling device, already cheaper than furnace + rooftop AC (13.2 vs 1.5 + 17.2, ON 2025); the per-home Appendix 2 ratio against a heating-only furnace would cut it ~75%, below the rooftop AC alone. Commercial heating therefore does not respond between Run 1 and Run 2 (say so in the Run 2 note)
+  - T1 light-duty: cars, light passenger trucks, light freight trucks. All four BEV ranges scaled by the factor that puts BEV300 at gasoline x ratio. Motorcycles and buses not mapped
+  - T2 freight: heavy-duty trucks `T_HDV_T_*`
+  - PHEV, HEV, FCEV unchanged
+  - Each vintage takes the ratio of its period end year (vintage 2025 -> 2030 ratio), linear between tab 2a years
+  - NLLAB and PEI have no gas furnaces: the conventional cost is the mean of the other regions for that vintage
 - Industrial carbon price: skipped (see inventory)
 - Clean Fuel Regulations: not applied for now. EF2026 Table A1.1 target, for reference if added later: 12 gCO2e/MJ below 2016 levels by 2030, then a further 1.5 gCO2e/MJ decrease between 2030 and 2050 (open question then: average across fuels or per fuel)
 - Building codes: read at period end, like the demands they scale
