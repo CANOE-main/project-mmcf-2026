@@ -9,12 +9,12 @@ from canoe.pipeline import CANOECompilerConfig, CANOEPipelineConfig, run_compile
 from canoe.representative_periods.build import build_representative_periods
 from canoe.temoa_protocol import run_temoa
 from loguru import logger
-from scripts.add_cogen_flex import add_cogen_flex
 from scripts.add_building_codes import add_building_codes
 from scripts.add_candu_forced_refurb import add_candu_forced_refurb
 from scripts.add_carbon_price import add_carbon_price
 from scripts.add_cer import add_cer
 from scripts.add_coal_phaseout import add_coal_phaseout
+from scripts.add_cogen_flex import add_cogen_flex
 from scripts.add_data_centres import add_data_centres
 from scripts.add_itcs import add_itcs
 from scripts.add_methane import add_methane
@@ -133,10 +133,15 @@ def main(
 
     temoa_config = pipeline_config.temoa_config
     assert temoa_config is not None
+    # The policy extensions follow nz_policies whatever the config says: without the
+    # policies their tables (add_cer, add_uc) are missing and Temoa stops to ask
+    policy_extensions = {"carbon_markets", "unit_commitment"}
+    extensions = [e for e in temoa_config.extensions if e not in policy_extensions]
     if nz_policies:
-        temoa_config.extensions += ["carbon_markets"]
+        extensions.append("carbon_markets")
         if UNIT_COMMITMENT:
-            temoa_config.extensions += ["unit_commitment"]
+            extensions.append("unit_commitment")
+    temoa_config.extensions = extensions
     run_temoa(db_path=rep_period_output.db_path, config=temoa_config)
 
 
