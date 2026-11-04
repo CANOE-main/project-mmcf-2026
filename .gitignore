@@ -1,5 +1,5 @@
 .cache
-**/*.sqlite
+**/*.sqlite*
 **/*.egg-info
 **/__pycache__/
 **/temoa-outputs/
