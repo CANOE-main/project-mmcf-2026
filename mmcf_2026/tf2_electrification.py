@@ -22,6 +22,7 @@ from scripts.add_net_zero_cap import add_net_zero_cap
 from scripts.add_qc_wci import add_qc_wci
 from scripts.add_uc import add_uc
 from scripts.module_copy import run as module_cp_run
+from scripts.temoa_to_iamc import run as run_to_iamc
 
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
 WORKING_DIR = Path("canoe-pwd")
@@ -143,6 +144,13 @@ def main(
             extensions.append("unit_commitment")
     temoa_config.extensions = extensions
     run_temoa(db_path=rep_period_output.db_path, config=temoa_config)
+
+    # Convert results to target iamc format for IDEA
+    run_to_iamc(
+        [("TF2-Electrification", rep_period_output.db_path)],
+        output_dir=temoa_config.output_path,
+    )
+
 
 
 if __name__ == "__main__":
