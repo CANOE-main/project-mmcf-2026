@@ -84,7 +84,7 @@ missing_data_behavior = "warning"
 [representative_periods_config]
 # What the reduced database keeps of each demand: "hourly" values of the
 # representative days (the annual demand changes) or the "annual" demand
-demand_preservation = "annual"
+demand_preservation = "hourly"
 # Share of each demand's distribution set to zero, from its smallest values
 dsd_threshold = 0.01
 
@@ -115,7 +115,7 @@ pca_components = 6
 # hierarchical, k_means, k_medoids or adjacent_periods
 method = "hierarchical"
 # Representative days, forced and extreme days included
-n_periods = 8
+n_periods = 16
 forced_days = []
 # Days with the highest/lowest hourly value (peak) or daily mean of any series
 # of data_dir

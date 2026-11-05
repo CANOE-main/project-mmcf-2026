@@ -184,7 +184,10 @@ if __name__ == "__main__":
         "--net-zero-cap-mt", type=float, default=NET_ZERO_CAP_MT,
         help=f"cap on national CO2e in the last period, Mt (default {NET_ZERO_CAP_MT}); needs --nz-policies",
     )
+    parser.add_argument("--no-net-zero-cap", action="store_true", help="run without the net-zero cap (e.g. to probe the floor)")
     args = parser.parse_args()
+    if args.no_net_zero_cap:
+        args.net_zero_cap_mt = None
     main(
         existing_db=args.db,
         nz_policies=args.nz_policies,
