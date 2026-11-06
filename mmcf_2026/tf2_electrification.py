@@ -15,8 +15,8 @@ from scripts.add_candu_forced_refurb import add_candu_forced_refurb
 from scripts.add_carbon_price import add_carbon_price
 from scripts.add_cer import add_cer
 from scripts.add_coal_phaseout import add_coal_phaseout
-from scripts.add_cost_ratios import add_cost_ratios
 from scripts.add_cogen_flex import add_cogen_flex
+from scripts.add_cost_ratios import add_cost_ratios
 from scripts.add_data_centres import add_data_centres
 from scripts.add_frozen_efficiencies import add_frozen_efficiencies
 from scripts.add_itcs import add_itcs

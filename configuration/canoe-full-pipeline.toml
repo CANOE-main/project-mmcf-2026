@@ -84,7 +84,7 @@ missing_data_behavior = "warning"
 [representative_periods_config]
 # What the reduced database keeps of each demand: "hourly" values of the
 # representative days (the annual demand changes) or the "annual" demand
-demand_preservation = "hourly"
+demand_preservation = "annual"
 # Share of each demand's distribution set to zero, from its smallest values
 dsd_threshold = 0.01
 
@@ -133,7 +133,7 @@ scenario_mode = "perfect_foresight"
 silent = false
 save_lp_file = false
 source_trace = true
-save_duals = false
+save_duals = true
 extensions = ["growth_rates"]
 plot_commodity_network = true
 time_sequencing = "representative_periods"
