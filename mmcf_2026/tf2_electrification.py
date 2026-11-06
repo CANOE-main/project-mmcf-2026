@@ -10,21 +10,21 @@ from canoe.pipeline import CANOECompilerConfig, CANOEPipelineConfig, run_compile
 from canoe.representative_periods.build import build_representative_periods
 from canoe.temoa_protocol import run_temoa
 from loguru import logger
-from scripts.add_building_codes import add_building_codes
-from scripts.add_candu_forced_refurb import add_candu_forced_refurb
-from scripts.add_carbon_price import add_carbon_price
-from scripts.add_cer import add_cer
-from scripts.add_coal_phaseout import add_coal_phaseout
-from scripts.add_cogen_flex import add_cogen_flex
-from scripts.add_cost_ratios import add_cost_ratios
-from scripts.add_data_centres import add_data_centres
-from scripts.add_frozen_efficiencies import add_frozen_efficiencies
-from scripts.add_itcs import add_itcs
-from scripts.add_methane import add_methane
-from scripts.add_net_zero_cap import add_net_zero_cap
-from scripts.add_qc_wci import add_qc_wci
-from scripts.add_uc import add_uc
-from scripts.module_copy import run as module_cp_run
+from policies.add_building_codes import add_building_codes
+from policies.add_candu_forced_refurb import add_candu_forced_refurb
+from policies.add_carbon_price import add_carbon_price
+from policies.add_cer import add_cer
+from policies.add_coal_phaseout import add_coal_phaseout
+from policies.add_cogen_flex import add_cogen_flex
+from policies.add_cost_ratios import add_cost_ratios
+from policies.add_data_centres import add_data_centres
+from policies.add_frozen_efficiencies import add_frozen_efficiencies
+from policies.add_itcs import add_itcs
+from policies.add_methane import add_methane
+from policies.add_net_zero_cap import add_net_zero_cap
+from policies.add_qc_wci import add_qc_wci
+from policies.add_uc import add_uc
+from policies.module_copy import run as module_cp_run
 
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
 WORKING_DIR = Path("canoe-pwd")

@@ -7,17 +7,17 @@
 #      the three runs and a cap feasible for it is feasible for the others.
 #   2. Cap = probe 2045 co2e x CAP_SLACK (default 1.10), so the cap is not the only
 #      feasible solution and the cost ratios can still move the result.
-#   3. Run the reference run, Run 1 and Run 2 with that cap (mmcf_2026/run_tf2_runs.sh):
+#   3. Run the reference run, Run 1 and Run 2 with that cap (scripts/run_tf2_runs.sh):
 #      policies on, carbon price off.
 #
-# Usage:                  ./run_tf2_forum.sh
-# Leave running:          nohup ./run_tf2_forum.sh > canoe-pwd/logs/forum.log 2>&1 &
-# Reuse a compiled base:  BASE_DB=canoe-pwd/canoe-net-zero.sqlite ./run_tf2_forum.sh
-# Other slack:            CAP_SLACK=1.05 ./run_tf2_forum.sh
-# Skip the probe:         FLOOR_MT=506.4 ./run_tf2_forum.sh
+# Usage:                  scripts/run_tf2_forum.sh
+# Leave running:          nohup scripts/run_tf2_forum.sh > canoe-pwd/logs/forum.log 2>&1 &
+# Reuse a compiled base:  BASE_DB=canoe-pwd/canoe-net-zero.sqlite scripts/run_tf2_forum.sh
+# Other slack:            CAP_SLACK=1.05 scripts/run_tf2_forum.sh
+# Skip the probe:         FLOOR_MT=506.4 scripts/run_tf2_forum.sh
 
 set -euo pipefail
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 PY=.venv/bin/python
 SCRIPT=mmcf_2026/tf2_electrification.py
@@ -71,8 +71,8 @@ log "cap: $floor Mt x $CAP_SLACK = $cap Mt CO2e"
 # 3. Forum runs: reference, Run 1, Run 2
 # --------------------------------------------------------------------------------------
 if [[ -n "${BASE_DB:-}" ]]; then
-  BASE_DB="$BASE_DB" NET_ZERO_CAP_MT="$cap" mmcf_2026/run_tf2_runs.sh
+  BASE_DB="$BASE_DB" NET_ZERO_CAP_MT="$cap" scripts/run_tf2_runs.sh
 else
-  NET_ZERO_CAP_MT="$cap" mmcf_2026/run_tf2_runs.sh  # FLOOR_MT given and no base: compiles
+  NET_ZERO_CAP_MT="$cap" scripts/run_tf2_runs.sh  # FLOOR_MT given and no base: compiles
 fi
 log "forum runs done with cap $cap Mt (floor $floor Mt, slack $CAP_SLACK)"

@@ -13,7 +13,7 @@ Reference run = Run 1 common configuration (EF2026 Canada Net-zero) with CANOE's
 - [x] Net-zero endpoint (`add_net_zero_cap`), `NET_ZERO_CAP_MT` = 505 x 1.10 Mt CO2e
 - [x] End-use efficiencies held at the 2025 vintage (`add_frozen_efficiencies`, all runs)
 - [x] Harmonized cost ratios for Run 1 / Run 2 (`add_cost_ratios`, `--cost-ratios run1|run2`)
-- [x] Submission runs script (`mmcf_2026/run_tf2_runs.sh`): reference, Run 1, Run 2
+- [x] Submission runs script (`scripts/run_tf2_runs.sh`): reference, Run 1, Run 2
 - [x] Data centre load (`add_data_centres`): new electric-only demand `C_D_DC`, flat profile
 - [x] Clean Economy ITCs (`add_itcs`), rates and eligibility checked against EF2026 Appendix 1
 - [x] Methane regulations (`add_methane`): fixed dummy emitter `OG_CH4`, path checked against EF2026 Appendix 1

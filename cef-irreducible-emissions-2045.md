@@ -25,7 +25,7 @@ Upstream emissions (`F_IMP_*`, a fixed factor per PJ of fuel supplied) are assig
 
 ## How we got here
 
-1. Ran the four TF2 scenarios (`mmcf_2026/run_tf2_experiments.sh`): no price or $10,000/t economy-wide carbon price, each with and without the NZ policies.
+1. Ran the four TF2 scenarios (`scripts/run_tf2_experiments.sh`): no price or $10,000/t economy-wide carbon price, each with and without the NZ policies.
 2. The $10k/t price is far above any abatement cost, so every remaining emission is either impossible to cut or forced by a constraint. The 2045 totals level off at 484 Mt (no policies) and 506 Mt (with policies), down from 708 Mt without a price.
 3. Compared emissions by tech with and without the price. Industry, agriculture and O&G methane don't change at all.
 4. For what remained, traced each fuel to the techs using it (`output_flow_in`) and checked the alternatives (`efficiency`) and binding settings (`limit_activity`, `limit_annual_capacity_factor`, `limit_tech_input_split_annual`, `technology.retire`). Every remaining source has no alternative or is held in place by a constraint.

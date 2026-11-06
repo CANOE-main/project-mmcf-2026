@@ -7,10 +7,10 @@
 # The first run compiles the base database; the others copy it (--db), so nothing is
 # overwritten. Each run writes canoe-pwd/<name>_8d.sqlite and canoe-pwd/logs/<name>.log.
 #
-# Usage (from anywhere):  mmcf_2026/run_tf2_runs.sh
-# Leave running:          nohup mmcf_2026/run_tf2_runs.sh > /dev/null 2>&1 &
-# Skip the compiler:      BASE_DB=canoe-pwd/canoe-net-zero.sqlite mmcf_2026/run_tf2_runs.sh
-# Change the cap (Mt):    NET_ZERO_CAP_MT=550 mmcf_2026/run_tf2_runs.sh
+# Usage (from anywhere):  scripts/run_tf2_runs.sh
+# Leave running:          nohup scripts/run_tf2_runs.sh > /dev/null 2>&1 &
+# Skip the compiler:      BASE_DB=canoe-pwd/canoe-net-zero.sqlite scripts/run_tf2_runs.sh
+# Change the cap (Mt):    NET_ZERO_CAP_MT=550 scripts/run_tf2_runs.sh
 
 set -uo pipefail
 cd "$(dirname "$0")/.."
