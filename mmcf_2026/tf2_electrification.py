@@ -2,6 +2,7 @@ import argparse
 import shutil
 import tomllib
 from pathlib import Path
+from typing import Literal
 
 import pandas as pd
 from canoe.common.projections import CSVSeriesSource
@@ -15,7 +16,9 @@ from scripts.add_carbon_price import add_carbon_price
 from scripts.add_cer import add_cer
 from scripts.add_coal_phaseout import add_coal_phaseout
 from scripts.add_cogen_flex import add_cogen_flex
+from scripts.add_cost_ratios import add_cost_ratios
 from scripts.add_data_centres import add_data_centres
+from scripts.add_frozen_efficiencies import add_frozen_efficiencies
 from scripts.add_itcs import add_itcs
 from scripts.add_methane import add_methane
 from scripts.add_net_zero_cap import add_net_zero_cap
@@ -26,7 +29,10 @@ from scripts.module_copy import run as module_cp_run
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
 WORKING_DIR = Path("canoe-pwd")
 TRP_SRC_DB = Path("~/OneDrive/dev/canoe-data/processed/canoe-trp-v4.sqlite").expanduser()
-NET_ZERO_RESIDUAL_CO2E: float | None = None  # kt CO2e in the last period; EF2026 residual, TBD
+# Cap on national CO2e in the last period (2045, standing for 2050), Mt CO2e. 505 Mt is
+# the minimum found with a very high carbon price, plus 10% slack so the cap is not the
+# only feasible solution. None = no cap. Overridden by --net-zero-cap-mt.
+NET_ZERO_CAP_MT: float | None = 505 * 1.10
 QC_WCI_PRICE: float | None = None  # 2030 WCI price in 2020 C$/t (constant real), TBD
 # Economy-wide carbon price in 2020 C$/t, constant or {year: price} (read at period end,
 # interpolated). Quebec is excluded when QC_WCI_PRICE is set. None = no global price.
@@ -34,6 +40,9 @@ GLOBAL_CARBON_PRICE: float | dict[int, float] | None = 10_000
 # Unit commitment with the policies: adds the UC data (add_uc) and enables Temoa's
 # unit_commitment extension. Both go together, the extension needs add_uc's tables.
 UNIT_COMMITMENT = False
+# Hold end-use (T_, R_, C_) efficiencies at the 2025 vintage in every run, as the TF2 data
+# book asks (efficiencies at 2024 values, no learning this round)
+FREEZE_EFFICIENCIES = True
 
 
 # ---------------------------------------------------------------------------
@@ -62,6 +71,8 @@ def main(
     nz_policies: bool = True,
     carbon_price: bool = True,
     scenario_name: str | None = None,
+    cost_ratios: Literal["run1", "run2"] | None = None,
+    net_zero_cap_mt: float | None = NET_ZERO_CAP_MT,
 ) -> None:
     with CONFIG_FILE.open("rb") as f:
         pipeline_config = CANOEPipelineConfig.model_validate(tomllib.load(f))
@@ -97,6 +108,16 @@ def main(
     trp_src_db = TRP_SRC_DB
     module_cp_run(str(trp_src_db), str(db), "TRP%", "data_set", ("T_*", "F_T_*"), version="003")
 
+    # TF2 common configuration: end-use efficiencies held at 2024 values (no learning)
+    if FREEZE_EFFICIENCIES:
+        add_frozen_efficiencies(str(db))
+
+    # Harmonized cost ratios (Run 1 / Run 2); none for the reference run. Before add_itcs,
+    # which discounts the emerging techs' costs these set
+    if cost_ratios is not None:
+        logger.info(f"Applying the {cost_ratios} cost ratios")
+        add_cost_ratios(str(db), cost_ratios)
+
     # Post-hoc policies (Net-Zero)
     if carbon_price and GLOBAL_CARBON_PRICE is not None:
         add_carbon_price(str(db), GLOBAL_CARBON_PRICE, exclude=() if QC_WCI_PRICE is None else ('QC',))
@@ -115,10 +136,14 @@ def main(
             logger.warning("QC_WCI_PRICE not set, running without Quebec carbon pricing")
         else:
             add_qc_wci(str(db), QC_WCI_PRICE)
-        if NET_ZERO_RESIDUAL_CO2E is None:
-            logger.warning("NET_ZERO_RESIDUAL_CO2E not set, running without the net-zero endpoint")
+        if net_zero_cap_mt is None:
+            logger.warning("No net-zero cap set, running without the net-zero endpoint")
         else:
-            add_net_zero_cap(str(db), NET_ZERO_RESIDUAL_CO2E)
+            logger.info(f"Net-zero cap: {net_zero_cap_mt:.2f} Mt CO2e in the last period")
+            add_net_zero_cap(
+                str(db), net_zero_cap_mt * 1000,  # Mt to kt
+                notes=f'Net-zero endpoint: {net_zero_cap_mt:.2f} Mt CO2e (2045 floor plus slack, closest feasible)',
+            )
 
     ####################################
     # Representative periods and TEMOA #
@@ -151,10 +176,23 @@ if __name__ == "__main__":
     parser.add_argument("--nz-policies", action="store_true")
     parser.add_argument("--carbon-price", action="store_true", help="apply GLOBAL_CARBON_PRICE")
     parser.add_argument("--scenario-name", type=str, help="name of the scenario database (compiler output kept clean)")
+    parser.add_argument(
+        "--cost-ratios", choices=["run1", "run2"],
+        help="harmonized cost ratios: run1 conservative, run2 accelerated (default: CANOE's own, reference run)",
+    )
+    parser.add_argument(
+        "--net-zero-cap-mt", type=float, default=NET_ZERO_CAP_MT,
+        help=f"cap on national CO2e in the last period, Mt (default {NET_ZERO_CAP_MT}); needs --nz-policies",
+    )
+    parser.add_argument("--no-net-zero-cap", action="store_true", help="run without the net-zero cap (e.g. to probe the floor)")
     args = parser.parse_args()
+    if args.no_net_zero_cap:
+        args.net_zero_cap_mt = None
     main(
         existing_db=args.db,
         nz_policies=args.nz_policies,
         carbon_price=args.carbon_price,
         scenario_name=args.scenario_name,
+        cost_ratios=args.cost_ratios,
+        net_zero_cap_mt=args.net_zero_cap_mt,
     )
