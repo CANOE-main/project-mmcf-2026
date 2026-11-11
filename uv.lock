@@ -11,7 +11,7 @@ resolution-markers = [
 ]
 
 [manifest]
-overrides = [{ name = "temoa", git = "https://github.com/idelder/temoa?rev=mmcf_2026" }]
+overrides = [{ name = "temoa", git = "https://github.com/yamilbknsu/temoa?rev=yep%2Ffix%2Fcarbon-credits-fix" }]
 
 [[package]]
 name = "annotated-doc"
@@ -2109,7 +2109,7 @@ wheels = [
 [[package]]
 name = "temoa"
 version = "4.0.0a2"
-source = { git = "https://github.com/idelder/temoa?rev=mmcf_2026#e8861993c08c3fef6cb4623a8ba00d12044ece2a" }
+source = { git = "https://github.com/yamilbknsu/temoa?rev=yep%2Ffix%2Fcarbon-credits-fix#d75f392fb2b5bd2789c3c5ec6d8af523148d3c84" }
 dependencies = [
     { name = "deprecated" },
     { name = "graphviz" },

@@ -1,5 +1,6 @@
 import argparse
 import shutil
+import sqlite3
 import tomllib
 from pathlib import Path
 from typing import Literal
@@ -27,7 +28,8 @@ from policies.add_uc import add_uc
 from policies.module_copy import run as module_cp_run
 
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
-WORKING_DIR = Path("canoe-pwd")
+WORKING_DIR = Path("canoe-pwd")  # freshly compiled databases only
+EXPERIMENT_DIR = WORKING_DIR / "tf2"  # post-processed and optimized databases
 TRP_SRC_DB = Path("~/OneDrive/dev/canoe-data/processed/canoe-trp-v4.sqlite").expanduser()
 # Cap on national CO2e in the last period (2045, standing for 2050), Mt CO2e. 505 Mt is
 # the minimum found with a very high carbon price, plus 10% slack so the cap is not the
@@ -82,24 +84,22 @@ def main(
     # ##########
     compiler_config = pipeline_config.compiler
     assert compiler_config is not None
-    db = Path(compiler_config.base.db_output_dir)
+    compiled_db = Path(compiler_config.base.db_output_dir)
 
     if existing_db is None:
         modify_compiler_config(compiler_config)
         run_compiler(compiler_config)
-        if scenario_name:
-            # Keep the compiler output clean for other scenarios (--db), work on a copy
-            existing_db, db = db, db.with_stem(scenario_name)
-            logger.info(f"Copying compiler output {existing_db} -> {db}")
-            shutil.copyfile(existing_db, db)
+        existing_db = compiled_db
     else:
-        # Post-processing edits the database in place, so work on a copy
-        if scenario_name:
-            db = db.with_stem(scenario_name)
-        if existing_db.resolve() == db.resolve():
-            raise ValueError(f"--db must differ from the compiler output path ({db})")
-        logger.info(f"Skipping compiler, copying {existing_db} -> {db}")
-        shutil.copyfile(existing_db, db)
+        logger.info(f"Skipping compiler, using {existing_db}")
+
+    # The compiled db stays clean in WORKING_DIR, the experiment works on a copy
+    EXPERIMENT_DIR.mkdir(parents=True, exist_ok=True)
+    db = EXPERIMENT_DIR / f"{scenario_name or existing_db.stem}.sqlite"
+    if existing_db.resolve() == db.resolve():
+        raise ValueError(f"--db must differ from the experiment database ({db})")
+    logger.info(f"Copying {existing_db} -> {db}")
+    shutil.copyfile(existing_db, db)
 
     ##########################################
     # Post-process (add TRP, scenarios, etc) #
@@ -107,6 +107,10 @@ def main(
     logger.info("Adding transportation")
     trp_src_db = TRP_SRC_DB
     module_cp_run(str(trp_src_db), str(db), "TRP%", "data_set", ("T_*", "F_T_*"), version="003")
+    # The copy sweeps in the TRP db's own E_T_ELC (outputs T_elc), duplicating the compiler's.
+    # Keep the compiler's: myopic mode fails on the duplicate efficiency rows
+    with sqlite3.connect(db) as conn:
+        conn.execute("DELETE FROM efficiency WHERE tech = 'E_T_ELC' AND data_id LIKE 'FUELHR%'")
 
     # TF2 common configuration: end-use efficiencies held at 2024 values (no learning)
     if FREEZE_EFFICIENCIES:
@@ -152,7 +156,7 @@ def main(
     assert rep_periods_config is not None
     rep_period_output = build_representative_periods(
         input_db=db,
-        output_dir=WORKING_DIR,
+        output_dir=EXPERIMENT_DIR,
         config=rep_periods_config,
     )
 

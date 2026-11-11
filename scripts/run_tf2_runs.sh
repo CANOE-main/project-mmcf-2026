@@ -5,7 +5,7 @@
 #   tf2-run1  Run 1, conservative harmonized cost ratios
 #   tf2-run2  Run 2, accelerated harmonized cost ratios
 # The first run compiles the base database; the others copy it (--db), so nothing is
-# overwritten. Each run writes canoe-pwd/<name>_8d.sqlite and canoe-pwd/logs/<name>.log.
+# overwritten. Each run writes canoe-pwd/tf2/<name>_<n>d.sqlite and canoe-pwd/logs/<name>.log.
 #
 # Usage (from anywhere):  scripts/run_tf2_runs.sh
 # Leave running:          nohup scripts/run_tf2_runs.sh > /dev/null 2>&1 &
@@ -40,7 +40,7 @@ for entry in "${SCENARIOS[@]}"; do
   log="$LOG_DIR/$name.log"
 
   if [[ -z "$base_db" ]]; then
-    db_args=()  # compile, then the script copies the output to <name>.sqlite
+    db_args=()  # compile, then the script copies the output to tf2/<name>.sqlite
   else
     db_args=(--db "$base_db")
   fi

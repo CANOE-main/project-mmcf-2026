@@ -39,7 +39,7 @@ else
   if [[ -n "${BASE_DB:-}" ]]; then
     db_args=(--db "$BASE_DB")
   else
-    db_args=()  # compile, then the script copies the output to $PROBE.sqlite
+    db_args=()  # compile, then the script copies the output to tf2/$PROBE.sqlite
   fi
   log "start probe $PROBE -> $LOG_DIR/$PROBE.log"
   # stdin from /dev/null: an interactive prompt fails the run instead of hanging
@@ -52,8 +52,8 @@ else
   BASE_DB="${BASE_DB:-$COMPILED_DB}"  # the probe compiled it if it wasn't given
 
   # Temoa writes its results into the representative-periods copy, <name>_<n>d.sqlite
-  probe_out=$(ls -t canoe-pwd/"$PROBE"_*d.sqlite 2>/dev/null | head -n 1)
-  [[ -n "$probe_out" ]] || { log "no probe output database canoe-pwd/${PROBE}_*d.sqlite"; exit 1; }
+  probe_out=$(ls -t canoe-pwd/tf2/"$PROBE"_*d.sqlite 2>/dev/null | head -n 1)
+  [[ -n "$probe_out" ]] || { log "no probe output database canoe-pwd/tf2/${PROBE}_*d.sqlite"; exit 1; }
   floor=$(sqlite3 "$probe_out" \
     "SELECT ROUND(SUM(emission) / 1000, 2) FROM output_emission
      WHERE emis_comm = 'co2e' AND period = (SELECT MAX(period) FROM output_emission)")
