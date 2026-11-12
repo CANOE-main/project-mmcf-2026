@@ -36,5 +36,5 @@ dependencies = [
 package = false
 # Replace the Temoa version pinned by CANOE
 override-dependencies = [
-  "temoa @ git+https://github.com/yamilbknsu/temoa@yep/fix/carbon-credits-fix",
+  "temoa @ git+https://github.com/yamilbknsu/temoa@60c13c8315cee548663e507f27aba056cc0c151b",
 ]
