@@ -153,16 +153,18 @@ class Results:
 
 
 def final_energy(res):
-    # Consumption of delivered fuels (supply can exceed it), plus a zero row for every represented path
-    # so that represented fuels report 0 rather than blank.
+    # Output of the delivery technologies, plus a zero row for every represented path so that represented
+    # fuels report 0 rather than blank. Measured at delivery, not at end-use consumption: Temoa drops output
+    # rows below its activity threshold (1e-3 per time slice), which removes much of the many small end-use
+    # flows but little of the few large delivery flows.
     delivered = add_canada(res.query(f"""
         WITH fuel AS (
             SELECT DISTINCT e.output_comm AS commodity, t.sector FROM efficiency AS e JOIN technology AS t USING (tech)
             WHERE t.sector IN (SELECT value FROM json_each(:sectors)) AND {glob_any('e.tech', DELIVERY_TECHS)}
         )
         SELECT region, time, fuel.sector, commodity, SUM(value) AS value FROM (
-            SELECT region, period AS time, input_comm AS commodity, flow AS value
-            FROM output_flow_in WHERE scenario = :scenario
+            SELECT region, period AS time, output_comm AS commodity, flow AS value
+            FROM output_flow_out WHERE scenario = :scenario AND {glob_any('tech', DELIVERY_TECHS)}
             UNION ALL
             SELECT e.region, p.period, e.output_comm, 0 FROM efficiency AS e, time_period AS p WHERE p.flag = 'f'
         ) JOIN fuel USING (commodity)
@@ -227,8 +229,15 @@ def technology_shares(res):
         SELECT region, period AS time, tech, SUM(capacity) AS value FROM output_net_capacity
         WHERE scenario = :scenario GROUP BY region, period, tech""")
 
+    # A zero row for every technology the model has in a region, so that a represented class with no
+    # capacity reports 0 rather than blank (blank means "not represented" in the template).
+    represented = res.query("""
+        SELECT r.region, p.period AS time, r.tech, 0 AS value
+        FROM (SELECT DISTINCT region, tech FROM efficiency) AS r, time_period AS p WHERE p.flag = 'f'""")
+
     frames = []
     for capacity, measure in ((built, "Sales Share"), (stock, "Stock Share")):
+        capacity = pd.concat([capacity, represented], ignore_index=True)
         classes = pd.DataFrame([classify(t) for t in capacity.tech], columns=["segment", "kind", "note"],
                                index=capacity.index)
         capacity = add_canada(capacity.join(classes).dropna(subset=["segment"]).drop(columns="tech"))
@@ -251,7 +260,7 @@ def capital_costs(res, currency):
 
 
 def prices(res, currency):
-    """Undiscounted duals of delivered-fuel balances in $/GJ, weighted by consumption."""
+    """Undiscounted duals of delivered-fuel balances in $/GJ, weighted by the delivered flow in each slice."""
     frames = []
     for name, commodity in PRICES.items():
         duals = res.duals("commodity_balance_constraint", commodity)
@@ -261,8 +270,8 @@ def prices(res, currency):
             continue
         keys = [c for c in duals.columns if c != "dual"]
         flows = pd.read_sql_query(f"""
-            SELECT {', '.join(keys)}, SUM(flow) AS flow FROM output_flow_in
-            WHERE scenario = ? AND input_comm = ? GROUP BY {', '.join(keys)}""",
+            SELECT {', '.join(keys)}, SUM(flow) AS flow FROM output_flow_out
+            WHERE scenario = ? AND output_comm = ? GROUP BY {', '.join(keys)}""",
                                   res.con, params=(res.scenario, commodity))
         df = duals.merge(flows, on=keys).astype({"period": int})
         df = df[df.period.isin(res.year) & df.region.isin(REGIONS)]
@@ -272,21 +281,23 @@ def prices(res, currency):
         sums = pd.concat([sums, sums.groupby("time", as_index=False)[["cost", "flow"]].sum().assign(region=CANADA)])
         price = sums.assign(value=sums.cost / sums.flow * currency.factor)
         frames.append(rows(price, "Price|Use Final|" + name, f"CAD${currency.year}/GJ",
-                           "Marginal cost from model duals; no carbon price applied"))
+                           "Marginal cost from model duals; includes the emissions-cap shadow price where binding"))
     return frames
 
 
 def carbon_price(res, currency):
-    """National shadow price of the emissions cap in $/t (M$/kt); zero if nothing prices carbon."""
+    """National shadow price of the emissions cap in $/t; zero in periods with no cap or price."""
     found = res.con.execute(
         "SELECT constraint_name, dual FROM output_dual_variable WHERE scenario = ? AND constraint_name GLOB ?",
         (res.scenario, "limit_emission_constraint[[]*,co2e,*]")).fetchall()
     priced = res.con.execute("SELECT COUNT(*) FROM cost_emission").fetchone()[0]
     if found:
         periods = [int(name[name.index("[") + 1:-1].split(",")[1]) for name, _ in found]
-        value = {p: abs(dual) / res.discount_factor(p) * currency.factor for p, (_, dual) in zip(periods, found)
-                 if p in res.year}
-        note = "Shadow price of the emissions cap"
+        # Objective in M$, emissions in kt: the dual is in M$/kt = 1000 $/t.
+        capped = {p: abs(dual) / res.discount_factor(p) * 1000 * currency.factor
+                  for p, (_, dual) in zip(periods, found) if p in res.year}
+        value = {p: capped.get(p, 0.0) for p in res.year}  # no cap in a period: shadow price is zero
+        note = "Shadow price of the emissions cap (zero in periods without a cap)"
     elif priced:
         return []
     else:

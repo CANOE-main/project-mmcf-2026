@@ -42,18 +42,22 @@ dropped. `Canada` is the sum of the provinces, with these exceptions:
 - Prices are averaged across provinces, weighted by consumption.
 - Shares are computed from the summed capacity.
 
-**Final energy.** Final energy is consumption (`output_flow_in`) of delivered fuels. Delivered fuels are the outputs of
-the CANOE delivery technologies (`F_*`, `E_*`) in end-use sectors, for example `F_R_NG → R_ng` and `E_R_ELC → R_elc`.
+**Final energy.** Final energy is the output (`output_flow_out`) of the CANOE delivery technologies (`F_*`, `E_*`) in
+end-use sectors, for example `F_R_NG → R_ng` and `E_R_ELC → R_elc`.
 
-- **Consumption, not supply.** Supply of a delivered fuel can exceed consumption, because the balance constraint is an
-  inequality: in 2025, 613 PJ of `R_elc` was delivered but 576 PJ consumed.
+- **Delivery, not end-use consumption.** Temoa drops output rows below its activity threshold (default 1e-3 PJ per
+  region, period, time slice, technology and vintage). Many small end-use flows fall below it, so summing end-use
+  `output_flow_in` undercounts. In the 16-day TF2 Run 1, 2025 period: 593 PJ of `R_elc` delivered vs 497 PJ recorded as
+  consumed; in PEI, 0.94 vs 0.04 PJ. The few, large delivery flows are much less affected. Lower
+  `output_threshold_activity` in the Temoa config to remove the effect.
 - **Classification.** The delivery technology's sector gives the template sector. The commodity suffix gives the fuel
   (`FUEL_TYPES`). An unmapped suffix stops the script, so a new fuel is never dropped silently.
 - **Blank vs zero.** Every fuel path in the `efficiency` table gets a zero row. A fuel the model represents but does not
   use (e.g. transportation hydrogen) is reported as 0. Unrepresented fuels stay blank.
 - **Totals.** Sector totals, `Use Final`, the `Use Final|Energy|*` lines and the buildings aggregates are sums of the fuel
   lines, so the template's sum checks hold by construction.
-- **Space heating by fuel.** The same consumption, restricted to the `R_D_SPH` and `C_D_SPH` demands.
+- **Space heating by fuel.** End-use consumption (`output_flow_in`) of the techs serving the `R_D_SPH` and `C_D_SPH`
+  demands. Subject to the output threshold above, so these lines are slightly low.
 
 **Emissions.** `co2e` from `output_emission`, kt → Mt.
 
@@ -61,11 +65,14 @@ the CANOE delivery technologies (`F_*`, `E_*`) in end-use sectors, for example `
 - Negative emissions (CCS technologies) are reported as `Carbon Sequestration|CCS`, so net = gross + CCS.
 - Combustion emissions are reported by the emitting technology's sector.
 - `OG_CH4` is reported as Fugitive.
+- Agriculture emissions are reported as `Emissions|GHG Total|Other` (agriculture energy is inside Industry).
 
 **Technology shares.** Technology names are classified by regular expression into a segment (passenger, freight,
 residential heating, commercial heating) and a technology class.
 
 - Sales shares use new capacity by vintage; stock shares use net capacity.
+- Every class with a technology in the region's `efficiency` table gets a zero row, so a represented class with no
+  capacity (e.g. FCEV sales, new oil furnaces) reports 0 rather than blank.
 - Each segment adds to 100%.
 - The `note` column records the basis of each share.
 
@@ -79,7 +86,11 @@ constraints (objective in M$, flows in PJ, so $/GJ).
     - $L$ is the period length.
 - **Check.** For ON in 2025 this reproduces the input cost of gas exactly ($45.70 / 4.580 = 9.98$ $/GJ $=$ `F_IMP_NG` +
   `F_R_NG`).
-- **Annual price.** Time-slice duals (electricity) are averaged weighting by consumption in each slice.
+- **Annual price.** Time-slice duals (electricity) are averaged weighting by the delivered flow in each slice.
+- **Carbon.** Where the emissions cap binds, the commodity duals include its shadow price.
+
+**Carbon price.** `Price|Carbon` is the undiscounted dual of the national `co2e` emissions cap. The objective is in M$
+and emissions in kt, so the dual (M$/kt) is multiplied by 1000 to give $/t. Periods without a cap report 0.
 - **Requirement.** Prices need `save_duals = true` in the Temoa run.
 
 **Capital costs.** `cost_invest` for one representative technology per template line, M$ per thousand units → $ per unit.
@@ -122,15 +133,13 @@ constraints (objective in M$, flows in PJ, so $/GJ).
 - **Commercial heating shares** are on a capacity basis (PJ/y), because commercial technologies are not in units.
 - **Cost lines** use `R_SPHC_AIR_HP-TYP-NEW`, `R_SPH_NG_FRN-TYP-NEW`, `T_LDV_C_BEV300`, `T_LDV_C_GSL`, `T_HDV_T_BEV` and
   `T_HDV_T_DSL`.
-- **No carbon price.** The run applies no explicit carbon price, so prices include none.
 
 ### Not reported
 
 Lines the database cannot support are left blank, which the template reads as "not represented":
 
-- `Price|Carbon` and `Price|Carbon|OBPS`. There is no emission price or cap; the CER cap-and-trade on electricity is not
-  an economy-wide carbon price.
-- LULUCF, direct air capture, industrial-process emissions and `Emissions|GHG Total|Other`.
+- `Price|Carbon|OBPS`.
+- LULUCF, direct air capture and industrial-process emissions.
 - Non-energy use and chemical feedstock lines. Feedstocks sit inside the `I_CHEM` industry demand and cannot be split.
 - Industry `Heat` and `Other`, transportation `Pipeline`.
 - Floor space and peak demand.
