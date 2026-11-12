@@ -26,7 +26,7 @@ from policies.add_net_zero_cap import add_net_zero_cap
 from policies.add_qc_wci import add_qc_wci
 from policies.add_uc import add_uc
 from policies.module_copy import run as module_cp_run
-from scripts.temoa_to_iamc import run as run_to_iamc
+from policies.temoa_to_iamc import run as run_to_iamc
 
 CONFIG_FILE = Path("configuration/canoe-full-pipeline.toml")
 WORKING_DIR = Path("canoe-pwd")  # freshly compiled databases only
