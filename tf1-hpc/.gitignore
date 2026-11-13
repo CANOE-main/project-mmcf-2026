@@ -1,0 +1,6 @@
+.venv/
+db/
+assets/
+runs/
+logs/
+results.csv
