@@ -115,7 +115,7 @@ pca_components = 6
 # hierarchical, k_means, k_medoids or adjacent_periods
 method = "hierarchical"
 # Representative days, forced and extreme days included
-n_periods = 8
+n_periods = 16
 forced_days = []
 # Days with the highest/lowest hourly value (peak) or daily mean of any series
 # of data_dir
@@ -133,8 +133,8 @@ scenario_mode = "perfect_foresight"
 silent = false
 save_lp_file = false
 source_trace = true
-save_duals = false
-extensions = ["growth_rates", "carbon_markets"]
+save_duals = true
+extensions = ["growth_rates"]
 plot_commodity_network = true
 time_sequencing = "representative_periods"
 days_per_period = 363

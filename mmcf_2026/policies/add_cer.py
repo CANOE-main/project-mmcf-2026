@@ -175,6 +175,8 @@ def add_cer(
                 | (df['tech'].str.contains('COAL'))
                 | (df['period'] == final_period)
             ]
+            # Only vintages that exist by the period; later ones break myopic windows
+            df = df.loc[df['vintage'] <= df['period']]
             df['tech_or_group'] = df['tech']
             factor = 8760/1000 # t/8760GW to kt/GW
             df.loc[df['period'] < final_period, 'cap'] = cap * factor
